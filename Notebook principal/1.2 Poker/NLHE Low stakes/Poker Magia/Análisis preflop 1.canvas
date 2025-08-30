@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"12ca1a513b2f0089","type":"file","file":"img/Rango OR EP vs MP.png","x":-820,"y":-240,"width":398,"height":400},
+		{"id":"d5b6c087a1d72855","type":"file","file":"img/Rango OR EP vs BTN.png","x":20,"y":-240,"width":400,"height":399},
+		{"id":"b1ee37b9284dec92","type":"file","file":"img/Rango OR EP vs CO.png","x":-395,"y":-241,"width":399,"height":400},
+		{"id":"b3e2a9559ca5124d","type":"file","file":"img/Rango OR EP vs SB.png","x":440,"y":-239,"width":400,"height":399},
+		{"id":"3217dbdee80bf05d","type":"file","file":"img/Rango OR EP vs BB.png","x":860,"y":-239,"width":400,"height":399},
+		{"id":"47103c8740778da9","type":"file","file":"img/Rango OR EP.png","x":-1240,"y":-239,"width":399,"height":400},
+		{"id":"ab40f042eacf5e6d","type":"text","text":"**MP**\n- Desde MP empezamos a abrir más conectores y vamos a pagar 3bet siempre.\n- El juego contra CO y BTN es muy similar, muchas manos de 4bet bluff y call.\n- El juego contra SB es en el que menos call vamos a tener.\n- El juego contra BB es en el que más call vamos a tener.","x":-1240,"y":180,"width":520,"height":240},
+		{"id":"996bb14fb429932d","type":"text","text":"**EP**\n- En EP vs posiciones tempranas que tienen posición sobre nosotros se tiene más manos que van al 4bet de bluff y se paga menos, excepto EP vs MP donde se paga mucho más.\n- vs SB y BB se paga más y se 4betea de bluff menos","x":-1240,"y":-460,"width":520,"height":180},
+		{"id":"3ce2f1cbd8b46b8c","type":"file","file":"img/Rango OR MP vs BTN.png","x":-391,"y":461,"width":397,"height":400},
+		{"id":"9c98bffaa1ed5865","type":"file","file":"img/Rango OR MP vs SB.png","x":22,"y":461,"width":398,"height":400},
+		{"id":"b5440e492ed5339b","type":"file","file":"img/Rango OR MP vs BB.png","x":443,"y":461,"width":399,"height":400},
+		{"id":"c1e1d2d0839881e9","type":"file","file":"img/Rango OR MP.png","x":-1237,"y":460,"width":398,"height":400},
+		{"id":"b0a67f6d36df91b3","type":"file","file":"img/Rango OR MP vs CO.png","x":-818,"y":461,"width":400,"height":399},
+		{"id":"1eeabd9665d1e217","type":"text","text":"**CO**\n- Desde CO vamos a abrir más conectores y vamos a pagar 3bet siempre.\n- El juego contra BTN y SB es muy similar, equilibran mucho las manos de 4bet bluff y call\n- El juego contra BB tiene mucho más call que 4bet bluff","x":-1240,"y":900,"width":520,"height":200},
+		{"id":"b05004eab3e895a7","type":"file","file":"img/Rango OR CO vs BTN.png","x":-817,"y":1140,"width":399,"height":400},
+		{"id":"3c6e82a90090b0e0","type":"file","file":"img/Rango OR CO.png","x":-1240,"y":1141,"width":400,"height":399},
+		{"id":"f24e128355e76f75","type":"file","file":"img/Rango OR CO vs SB.png","x":-392,"y":1141,"width":398,"height":400},
+		{"id":"70adc988b725b3a0","type":"file","file":"img/Rango OR CO vs BB.png","x":22,"y":1141,"width":398,"height":400},
+		{"id":"671a26fcfba146d7","type":"text","text":"**BTN**\n- Desde BTN vamos a pagar muchas más 3bets vs SB, todas las suited JT+ y muchos pockets\n- Contra BB vamos a pagar muchas más 3bets\n- En general va a haber muy poco 4bet de bluff","x":-1237,"y":1560,"width":520,"height":180},
+		{"id":"2bb9f05f4aa8735c","type":"file","file":"img/Pasted image 20250828125628.png","x":-817,"y":2480,"width":400,"height":399},
+		{"id":"f16639f7622d58ba","type":"file","file":"img/Rango OR SB.png","x":-1237,"y":2480,"width":399,"height":400},
+		{"id":"fbd1dc39c810dea6","type":"text","text":"JULIETH - RECORDATORIO PARA LA PROXIMA SEMANA","x":-1230,"y":2220,"width":250,"height":60},
+		{"id":"77d2829209b60e24","type":"file","file":"img/Rango OR BTN vs SB.png","x":-820,"y":1780,"width":398,"height":400},
+		{"id":"05c66ae9abfccc6c","type":"file","file":"img/Rango OR BTN vs BB.png","x":-397,"y":1781,"width":400,"height":399},
+		{"id":"dffa4702c4cb34be","type":"file","file":"img/Rango OR BTN.png","x":-1240,"y":1781,"width":399,"height":400}
+	],
+	"edges":[]
+}
