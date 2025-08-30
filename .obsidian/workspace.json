@@ -39,12 +39,14 @@
             "id": "8e904434a363abb2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/1.01 Arboles de desición.md"
+                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Archivo de cambio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "1.01 Arboles de desición"
+              "icon": "lucide-file",
+              "title": "Archivo de cambio"
             }
           }
         ],
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/1.01 Arboles de desición.md",
+                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Archivo de cambio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1.01 Arboles de desición"
+              "title": "Enlaces entrantes de Archivo de cambio"
             }
           },
           {
@@ -140,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/1.01 Arboles de desición.md",
+                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Archivo de cambio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 1.01 Arboles de desición"
+              "title": "Enlaces salientes de Archivo de cambio"
             }
           },
           {
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/1.01 Arboles de desición.md",
+                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Archivo de cambio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1.01 Arboles de desición"
+              "title": "Esquema de Archivo de cambio"
             }
           },
           {
@@ -203,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,6 +225,7 @@
   "active": "8e904434a363abb2",
   "lastOpenFiles": [
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/1.01 Arboles de desición.md",
+    "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Archivo de cambio.md",
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/0.7 4Bet POT OOP.md",
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/0.5 3Bet POT OPP.md",
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/0.4 3Bet POT IP.md",
