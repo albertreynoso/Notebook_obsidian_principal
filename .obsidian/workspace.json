@@ -39,18 +39,42 @@
             "id": "8e904434a363abb2",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Notebook principal/img/Pasted image 20250829235814.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250829235814"
+            }
+          },
+          {
+            "id": "c2f98df81d93595d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Cambio 3.md",
+                "file": "Notebook principal/1.1 Universidad/Semestre 10/Auditoría de sistemas/0.0 Auditoria de sistemas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cambio 3"
+              "title": "0.0 Auditoria de sistemas"
+            }
+          },
+          {
+            "id": "a215a26f1e9760e0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notebook principal/1.1 Universidad/Semestre 10/Auditoría de sistemas/Unidad 01 Moodle.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Unidad 01 Moodle"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Cambio 3.md",
+                "file": "Notebook principal/1.1 Universidad/Semestre 10/Auditoría de sistemas/0.0 Auditoria de sistemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Cambio 3"
+              "title": "Enlaces entrantes de 0.0 Auditoria de sistemas"
             }
           },
           {
@@ -142,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Cambio 3.md",
+                "file": "Notebook principal/1.1 Universidad/Semestre 10/Auditoría de sistemas/0.0 Auditoria de sistemas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Cambio 3"
+              "title": "Enlaces salientes de 0.0 Auditoria de sistemas"
             }
           },
           {
@@ -171,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Cambio 3.md",
+                "file": "Notebook principal/1.1 Universidad/Semestre 10/Auditoría de sistemas/0.0 Auditoria de sistemas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Cambio 3"
+              "title": "Esquema de 0.0 Auditoria de sistemas"
             }
           },
           {
@@ -222,8 +246,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e904434a363abb2",
+  "active": "c2f98df81d93595d",
   "lastOpenFiles": [
+    "Pasted image 20250831082316.png",
+    "Notebook principal/img/Pasted image 20250829235814.png",
+    "Notebook principal/1.1 Universidad/Semestre 10/Auditoría de sistemas/Unidad 01 Moodle.pdf",
+    "Notebook principal/1.1 Universidad/Semestre 10/Auditoría de sistemas/0.0 Auditoria de sistemas.md",
+    "Notebook principal/img/Pasted image 20250830001906.png",
+    "Notebook principal/img/Pasted Image 20250503201755_056.png",
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/1.01 Arboles de desición.md",
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Cambio 3.md",
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Archivo de cambio.md",
@@ -238,8 +268,6 @@
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/0.6 4Bet POT IP.md",
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Análisis preflop.md",
     "Notebook principal/0.0 Cosas temporales/Aprendiendo importaciones/0.0 Curso Importaciones Issac Lopez.md",
-    "Pasted image 20250830001906.png",
-    "Pasted image 20250829235814.png",
     "Notebook principal/0.0 Cosas temporales/Aprendiendo importaciones/Proceso de creacion y compra Amazon.md"
   ]
 }
