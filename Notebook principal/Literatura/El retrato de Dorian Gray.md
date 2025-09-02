@@ -1,6 +1,0 @@
-![[Pasted image 20250421105608.png]]
-_El retrato de Dorian Gray_ es la única novela escrita por Oscar Wilde, publicada por primera vez en 1890. Esta obra es una profunda reflexión sobre la moral, la estética, la juventud y la corrupción del alma humana. Wilde, con su estilo característico lleno de ingenio y crítica social, logra crear una historia envolvente que desafía las normas morales de la época victoriana.
-
-La trama gira en torno a Dorian Gray, un joven extraordinariamente bello que, influenciado por las ideas hedonistas de Lord Henry Wotton, desea que su retrato envejezca en su lugar, conservando él su juventud y belleza eternamente. Este deseo se convierte en realidad, y mientras Dorian se sumerge en una vida de placeres, excesos y actos inmorales, su retrato se transforma, reflejando cada pecado y corrupción que su alma acumula.
-
-La obra presenta una crítica a la sociedad superficial y decadente que valora la apariencia por encima de la moral. A través de Dorian, Wilde explora los peligros del narcisismo, la influencia de las malas compañías, y el precio de vivir sin remordimientos. El contraste entre la eterna juventud exterior y la podredumbre del alma se convierte en una poderosa metáfora de la hipocresía social y la autodestrucción.
