@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"d061b86f609dd2ee","type":"file","file":"img/Pasted image 20250831131909.png","x":-340,"y":-540,"width":400,"height":366},
+		{"id":"85b342a57d49162b","type":"text","text":"Git commit","x":-340,"y":-640,"width":250,"height":60},
+		{"id":"e3c028a82ab6f936","type":"text","text":"Git branch ____","x":-340,"y":-140,"width":250,"height":50},
+		{"id":"ff29c1f0578739c0","type":"file","file":"img/Pasted image 20250831132250.png","x":-340,"y":-47,"width":400,"height":374},
+		{"id":"c0c67d3f8cbb794c","type":"file","file":"img/Pasted image 20250831132623.png","x":360,"y":-44,"width":400,"height":372},
+		{"id":"2381b7c1d51412c4","type":"text","text":"git switch cumple una función similar","x":780,"y":83,"width":250,"height":60,"color":"3"},
+		{"id":"93d7bfb1a0d8a62b","type":"text","text":"Se creó una nueva rama en el commit C1 pero no se cambió a la rama newImage","x":80,"y":80,"width":260,"height":97,"color":"3"},
+		{"id":"3841432fff6e1c60","type":"text","text":"After: git checkout newImage; git commit","x":360,"y":-140,"width":360,"height":50},
+		{"id":"f6e1dbec9c007e43","type":"file","file":"img/Pasted image 20250831133447.png","x":-340,"y":460,"width":400,"height":371},
+		{"id":"508a355fec41a3e0","type":"text","text":"git merge","x":-340,"y":360,"width":250,"height":60},
+		{"id":"d7305a2950462628","type":"text","text":"Las ramas bugFix y main tenian commits con las soluciones de su trabajo respectivo, pero ninguna tenia la solución completa de trabajo.\nDespués del merge se creó un nuevo commit que apuntaba a los resultados de las dos ramas padres. Conteniendo todo la solución.","x":85,"y":488,"width":250,"height":316,"color":"3"},
+		{"id":"d112e96c8e0827b1","type":"file","file":"img/Pasted image 20250831134020.png","x":360,"y":460,"width":400,"height":374},
+		{"id":"725600eb01530498","type":"text","text":"Como bugFix era un ancestro de main, no tenia que hacer ningún trabajo adicional, entonces se movió al mismo commit de **main**, de esta manera tanto bugFix como main contienen el mismo codigo.","x":780,"y":488,"width":250,"height":232,"color":"3"},
+		{"id":"147c35b184a15b4e","type":"text","text":"git checkout bugFix; git merge main","x":360,"y":360,"width":304,"height":60},
+		{"id":"8079b442c16f1027","x":-620,"y":520,"width":200,"height":180,"type":"text","text":"git branch bugFix\ngit checkout bugFix\ngit commit\ngit checkout main\ngit commit \ngit merge bugFix"},
+		{"id":"5a1a9a9275ccd963","x":-340,"y":860,"width":250,"height":60,"type":"text","text":"git rebase"},
+		{"id":"1e72595129fabd2e","x":-340,"y":960,"width":400,"height":382,"type":"file","file":"img/Pasted image 20250831135353.png"},
+		{"id":"adee0e58900def92","x":360,"y":966,"width":400,"height":371,"type":"file","file":"img/Pasted image 20250831135424.png"},
+		{"id":"30c41bf6d7f8038d","type":"text","text":"git branch bugFix\ngit checkout bugFix\ngit commit\ngit checkout main\ngit commit \ngit checkout bugFix\ngit rebase main","x":-600,"y":1040,"width":200,"height":200}
+	],
+	"edges":[]
+}

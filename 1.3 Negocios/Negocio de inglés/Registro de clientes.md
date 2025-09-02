@@ -1,0 +1,7 @@
+| Cliente   | Cuando llamar/Motivo                                                                                                                          | Telefono      | Estado        |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------------- |
+| Enrique   | Llamar la semana siguiente a partir del 05/9/25. Me dijo que para la siguiente semana era lo más probable porque necesitaba reunir el dinero. | 981879104     | Pendiente     |
+| ==Lidia== | ==Llamar 29/8/25 a las 7pm. Dijo que iba hacer el tramite y que la volviera a llar==                                                          | ==950350601== | ==Pendiente== |
+| JULIETH   | - RECORDATORIO PARA LA PROXIMA SEMANA                                                                                                         |               |               |
+| Angela    | Llamar 2/9 a las 7pm                                                                                                                          |               | Pendiente     |
+|           |                                                                                                                                               |               |               |
