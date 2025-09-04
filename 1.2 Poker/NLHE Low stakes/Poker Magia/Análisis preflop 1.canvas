@@ -26,5 +26,9 @@
 		{"id":"2bb9f05f4aa8735c","type":"file","file":"img/Pasted image 20250828125628.png","x":-820,"y":2440,"width":400,"height":399},
 		{"id":"f16639f7622d58ba","type":"file","file":"img/Rango OR SB.png","x":-1240,"y":2439,"width":399,"height":400}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

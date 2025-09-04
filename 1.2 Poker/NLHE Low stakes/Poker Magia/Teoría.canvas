@@ -7,5 +7,9 @@
 		{"id":"bfb8fe81bfa3b98a","type":"text","text":"CBET 33-45%\nManos de XC: AT, A9, K9, KT, TT\nManos de XR: QJ, 78, J8, 44, 99, A5, 56\nManos de XF: 64, 96, 53\n\n","x":-420,"y":400,"width":400,"height":120},
 		{"id":"2482c4dcbba6cc85","type":"text","text":"**X-Raise:**\n- Boards defensivos\n- Doble backdoor","x":-420,"y":-440,"width":340,"height":120}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"5652da3dfa73508b","type":"text","text":"Board polarizado: Boards en el que vamos a apostar muy fuerte o vamos a checkear.","x":60,"y":-320,"width":320,"height":105},
+		{"id":"0d21348870d10e63","type":"text","text":"Manos bet : AQ\nManos check:","x":60,"y":-180,"width":320,"height":120},
+		{"id":"ee2b9cd3c4d39d06","type":"file","file":"Pasted image 20250902184519.png","x":-520,"y":-360,"width":400,"height":209}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

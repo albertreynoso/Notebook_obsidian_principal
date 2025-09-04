@@ -3,5 +3,11 @@
   "dataview",
   "obsidian-kanban",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-latex-suite",
+  "recent-files-obsidian",
+  "obsidian-plugin-toc",
+  "opener",
+  "advanced-canvas"
 ]

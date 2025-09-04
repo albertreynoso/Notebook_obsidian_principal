@@ -1,9 +1,38 @@
 ### Guiones
 **Resumen**
-Haz un resumen con los puntos más importantes de este texto, quiero que el resumen sea en españo, incluso si el texto origen está en ingles. Presentalo en una forma de tabla donde la primera columna sea el concepto y la segunda columana sea su información relevante, se preciso y conciso. Ponle el titulo que consideres mas apropiado analizando el contenido del texto dado:
+Haz un resumen con los puntos más importantes de este texto, quiero que el resumen sea en español, incluso si el texto origen está en ingles. Presentalo en una forma de tabla donde la primera columna sea el concepto y la segunda columana sea su información relevante, se preciso y conciso. Ponle el titulo que consideres mas apropiado analizando el contenido del texto dado:
 **Profundización**
 Actúa como un experto en el tema del texto que te acabo de pedir que resumas, quiero que lo amplíes de manera profunda, con un análisis detallado, ejemplos prácticos, posibles escenarios, ventajas y riesgos. Organiza la información en secciones claras con subtítulos, respetando la cantidad de puntos importantes del resumen que me diste. Explica como si estuvieras asesorando a un profesional que quiere aplicar este conocimiento en la vida real.  
 Usa un tono experto, preciso y estratégico.
+**Resumen 2.0**
+Actúa como un analista de contenido especializado en deconstruir discursos estratégicos y frameworks de conocimiento. Tu tarea es analizar en profundidad el video de YouTube que te he proporcionado.
+
+No realices un simple resumen. Tu objetivo es **extraer el "esqueleto" de conocimiento del video**, identificando la tesis principal, los marcos conceptuales, las estrategias clave y los insights accionables que presenta el orador o creador.
+
+Sigue meticulosamente este proceso de análisis:
+
+1.  **Identifica el Core Message:** Determina la idea central, la premisa principal o el problema clave que el video busca abordar o resolver. ¿Cuál es la gran conclusión?
+2.  **Deconstruye la Argumentación:** Analiza cómo se estructura el contenido. ¿Presenta un framework, una lista de pasos, principios o un modelo mental? Divide el video en sus partes componentes lógicas.
+3.  **Extrae Conceptos y Estrategias Accionables:** Busca y lista las técnicas específicas, tips, marcos de referencia, preguntas poderosas o estrategias tangibles que se comparten. Prioriza información que se pueda aplicar.
+4.  **Captura Insights y Mentalidades:** Identifica las creencias, cambios de mentalidad o perspectivas únicas que el creador presenta como fundamentales para el éxito en la temática tratada.
+5.  **Contextualiza con Ejemplos (si los hay):** Si el speaker usa casos de estudio, analogías o ejemplos concretos para ilustrar un punto, captura la esencia del ejemplo y a qué concepto está vinculado.
+6.  **Síntesis en Tabla de Conocimiento:** Organiza toda la información extraída en una tabla integral que sirva como una "hoja de cheatsheet" del video.
+
+**INSTRUCCIÓN PARA LA TABLA FINAL:**
+
+Genera una tabla detallada y autoexplicativa con las siguientes columnas. Sé preciso y evita el relleno:
+-   **Tema Principal:** La categoría general o sección del discurso a la que pertenece el concepto (e.g., "La Ciencia de los Hábitos", "Fase de Iniciación", "Obstáculos Comunes", "Mentalidad").
+-   **Subtema/Estrategia:** La estrategia, fase, principio o regla específica mencionada (e.g., "La Regla de los 2 Minutos", "Rediseño del Entorno", "Disminuir la Fricción", "Encuadre de Identidad").
+-   **Concepto/Insight:** El término concreto, insight, tip o técnica accionable (e.g., "Agrupación de Hábitos (Habit Stacking)", "Nunca faltar dos veces seguidas", "Sistema de Responsabilidad Compartida").
+-   **Explicación/Propósito:** Una explicación concisa de *qué es* y *cómo se implementa*, basada en lo dicho en el video. Incluye el "porqué" es efectivo si el speaker lo explica. (e.g., "Técnica que consiste en anclar un nuevo hábito a uno ya existente. Ej: 'Después de [hábito actual], haré [nuevo hábito]'. Funciona porque aprovecha los patrones neurales ya establecidos.").
+**Indicaciones Críticas:**
+-   Si el video es una entrevista, distingue entre las ideas del anfitrión y las del invitado.
+-   Si el creador presenta un framework con un nombre específico (ej: "Los 5 Pilares de la Productividad"), utilízalo como el **Tema Principal**.
+-   Prioriza la fidelidad al contenido del video. Tu síntesis debe reflejar con precisión el mensaje del creador.
+  
+Tu output final debe ser la tabla completa con texto introductorio y/o de conclusión. La tabla debe ser un recurso valioso por sí misma para cualquiera que no haya visto el video.
+
+
 
 ### Prompts para comer un libro
 #### Fase 1: Pre-Lectura y Contexto (Antes de Empezar)
