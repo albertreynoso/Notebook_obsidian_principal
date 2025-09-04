@@ -17,7 +17,23 @@ https://www.youtube.com/watch?v=gxm3ahIaO7c - How to do a literature review: 5 m
 ### Research Rabbit
 ### Zotero
 ### Mendeley
-### Litmaps
+### SCISPACE
+Resumen de las Funciones de SCISPACE: Una Herramienta IA Integral para Investigación - https://www.youtube.com/watch?v=aIOo42ATtNM
+
+| Concepto                                 | Información Relevante                                                                                                                                                                                      |
+| :--------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Buscador Especializado**               | Permite buscar documentos científicos. Genera resúmenes automáticos de los artículos encontrados, citando autores y obras, y afirma estar libre de plagio.                                                 |
+| **Interacción con Documentos**           | Al visualizar un artículo, ofrece resúmenes de secciones específicas (literatura, metodología, resultados, etc.) en el idioma que elija el usuario. Permite guardar documentos en una biblioteca personal. |
+| **Preguntas a Documentos**               | El usuario puede subir un PDF o usar uno de su biblioteca y hacer preguntas específicas sobre su contenido para que la IA responda basándose en él.                                                        |
+| **Revisión de Literatura (Lit. Review)** | Herramienta para crear resúmenes de toda la bibliografía revisada sobre un tema en particular, sintetizando la información de múltiples documentos guardados.                                              |
+| **Escritor IA (AI Writer)**              | Redacta texto académico a partir de una idea o prompt inicial. Puede generar introducciones, conclusiones o continuar párrafos, incluyendo citaciones que el usuario puede verificar y corregir.           |
+| **Buscador de Conceptos**                | Ayuda a encontrar conceptos clave y sus definiciones dentro de un campo de estudio, incluyendo a sus autores principales, útil para construir marcos teóricos.                                             |
+| **Parafraseador (Paraphraser)**          | Reescribe textos copiados o importados para evitar el plagio. Ofrece diferentes estilos de redacción (académico, formal, creativo, etc.) manteniendo el significado original.                              |
+| **Generador de Citas**                   | Funciona como un gestor de referencias, permitiendo generar citas y bibliografías en varios estilos (APA, MLA, Chicago, Vancouver, etc.).                                                                  |
+| **Extractor de Datos (Data Extractor)**  | Extrae información específica de documentos, como las contribuciones de un paper o los datos de tablas y gráficos, proporcionando explicaciones de los mismos.                                             |
+| **Detector de IA**                       | Analiza un texto para determinar si fue escrito por una Inteligencia Artificial o por un humano, funcionando como un antiplagio para contenido generado por IA.                                            |
+| **Extensión de Navegador**               | Complemento para Chrome que permite interactuar con la IA directamente desde cualquier página web, haciendo preguntas sobre su contenido o enviando información a la biblioteca.                           |
+| **Propósito General**                    | La herramienta está diseñada para agilizar enormemente el proceso de investigación y redacción académica, permitiendo, según el video, desarrollar la parte teórica de una tesis en un día.                |
 ### Litmaps
 ## Metodologías
 ### How To Write An Exceptional Literature Review With AI - NEXT LEVEL Tactics
