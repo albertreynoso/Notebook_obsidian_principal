@@ -9,3 +9,20 @@
 	1. Planificar un modelo simple para promocionar la escuela de poker. Mejorar y variar las ofertas de la escuela
 	2. Ofrecer contenido de valor para futuros clientes
 
+
+Puntos de reunión 8/9
+Coordinarión:
+- Compartir cuaderno de Notion
+Enviar:
+- Video de compra de luces para stream, panel
+- Video de configuración de OBS
+Stream elements: 
+- Configuración del overlay
+Planificación de contenido respecto a streams y reels:
+- Titulos y series de contenido
+
+Siguiente reunión:
+Transformación de viewer to customer
+
+
+
