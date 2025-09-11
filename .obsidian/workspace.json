@@ -1,70 +1,50 @@
 {
   "main": {
-    "id": "3d9f3eda60fb0101",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "735b6cfec418aa29",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
+        "dimension": 42.297476759628154,
         "children": [
           {
-            "id": "0c4132c095a527c9",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "0.0 Cosas temporales/Curso Creación con IA/Análisis de nichos.md",
-                "mode": "source",
-                "source": false
+                "file": "1.1 Universidad/Semestre 10/Aplicaciones moviles/Untitled.canvas",
+                "viewState": {
+                  "x": -489.5107528214894,
+                  "y": 1037.536645674443,
+                  "zoom": -0.33849709122944044
+                }
               },
-              "icon": "lucide-file",
-              "title": "Análisis de nichos"
-            }
-          },
-          {
-            "id": "5b82b869ce5f5863",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1 Universidad/Semestre 10/Conversation class/Actividades.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actividades"
-            }
-          },
-          {
-            "id": "eeca4a9a2e63926a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.1 Universidad/Semestre 10/Auditoría de sistemas/0.0 Auditoria de sistemas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0.0 Auditoria de sistemas"
-            }
-          },
-          {
-            "id": "7f6f37639b5626e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.0 Cosas temporales/Curso Creación con IA/Agentes de automatización y herramientas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agentes de automatización y herramientas"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "dd167a9ddf5f896a",
+        "type": "tabs",
+        "dimension": 57.70252324037185,
+        "children": [
+          {
+            "id": "8453e6c98df15b15",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1.1 Universidad/Semestre 10/Aplicaciones moviles/Guías Prácticas N° 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Guías Prácticas N° 3"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +67,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -200,8 +180,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -210,8 +190,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -224,50 +204,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
       "media-extended:Open media": false
     }
   },
-  "active": "5b82b869ce5f5863",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1.1 Universidad/Semestre 10/Conversation class/0.0 Conversation Class.md",
+    "1.1 Universidad/Semestre 10/Aplicaciones moviles/Guías Prácticas N° 3.pdf",
+    "1.1 Universidad/Semestre 10/Aplicaciones moviles/Untitled.canvas",
+    "Pasted image 20250911164944.png",
+    "Pasted image 20250911164926.png",
+    "Pasted image 20250911162048.png",
+    "Pasted image 20250911162033.png",
+    "Pasted image 20250911162018.png",
+    "Pasted image 20250911160931.png",
+    "1.1 Universidad/Semestre 10/Aplicaciones moviles/0.0 App Moviles.md",
+    "0.0 Cosas temporales/Curso Creación con IA/Agentes de automatización y herramientas.md",
+    "Pasted image 20250911153113.png",
+    "Pasted image 20250911153105.png",
+    "1.1 Universidad/Semestre 10/Aplicaciones moviles/Drawing 2025-09-11 15.08.08.excalidraw.md",
+    "1.1 Universidad/Semestre 10/Auditoría de sistemas/0.0 Auditoria de sistemas.md",
+    "0.0 Cosas temporales/Curso Creación con IA/Análisis de nichos.md",
     "1.1 Universidad/Semestre 10/Conversation class/Actividades.md",
+    "1.1 Universidad/Semestre 10/Conversation class/0.0 Conversation Class.md",
     "0.0 Cosas temporales/Curso Creación con IA/Notas de estudio.md",
     "0.0 Cosas temporales/Curso Creación con IA/Creación de contenido con IA.md",
     "0.0 Cosas temporales/Curso Creación con IA/Teoría de cinematografía y producción.md",
     "Pasted Image 20250910130428_970.png",
-    "0.0 Cosas temporales/Curso Creación con IA/Análisis de nichos.md",
-    "0.0 Cosas temporales/Curso Creación con IA/Agentes de automatización y herramientas.md",
     "0.0 Cosas temporales/Curso Creación con IA/Sobre prompts.md",
     "1.1 Universidad/Semestre 10/Conversation class/Producto academico-Mallma_Patiño.pdf",
     "Pasted image 20250909203415.png",
     "0.0 Cosas temporales/Curso Creación con IA/Sobre monetización.md",
     "01 Aprendizaje con IA.md",
     "0.0 Cosas temporales/Inteligencia artificial/Inteligencia artificial.md",
-    "Pasted image 20250909193619.png",
     "0.0 Cosas temporales/Creación de contenido/Herramientas.md",
-    "Pasted image 20250909192843.png",
-    "1.1 Universidad/Semestre 10/Auditoría de sistemas/0.0 Auditoria de sistemas.md",
     "0.0 Cosas temporales/Diseño de apps/Aplicaciones moviles.md",
-    "Pasted image 20250909192702.png",
-    "img/Pasted image 20250909162139.png",
     "0.0 Cosas temporales/Diseño de apps",
     "vid/Video 1.mp4",
     "1.1 Universidad/Semestre 10/Auditoría de sistemas/Unidad 01 Moodle.pdf",
     "vid",
-    "img/Pasted image 20250909172112.png",
-    "img/Pasted image 20250909172029.png",
-    "img/Pasted image 20250909171940.png",
-    "img/Pasted image 20250909171751.png",
     "1.3 Negocios/Negocio de inglés/Negocio de ingles.md",
     "0.0 Cosas temporales/Curso Creación con IA",
     "1.3 Negocios/Negocio de inglés/Registro de clientes.md",
@@ -279,14 +266,10 @@
     "0.0 Cosas temporales/Creación de contenido/Plan de acción N°1.md",
     "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md",
     "0.0 Cosas temporales/Inteligencia artificial",
-    "0.0 Cosas temporales/Investigación cientifica/Investigación cientifica.md",
-    "0.0 Cosas temporales/Creación de videos/Creación de videos.md",
-    "1.2 Poker/NLHE Low stakes/Poker Magia/Condiciones de bancaje.md",
     "1.2 Poker/NLHE Low stakes/Poker Magia/SRP IP.canvas",
     "1.2 Poker/NLHE Low stakes/Poker Magia/Análisis preflop 1.canvas",
     "1.2 Poker/NLHE Low stakes/Poker Magia/2.05 3BET OOP - ESTUDIO DE MANOS.xlsx",
     "1.1 Universidad/Semestre 10/Taller de proyectos",
-    "0.0 Cosas temporales/Literat",
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Análisis preflop 1.canvas",
     "Notebook principal/0.0 Cosas temporales/Git/Untitled.canvas",
     "Notebook principal/0.0 Cosas temporales/Aprendiendo obsidian/Graficos.canvas",
