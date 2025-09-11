@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "tag:#excalidraw  ",
-  "showTags": true,
+  "search": "notas",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
@@ -17,6 +17,6 @@
   "repelStrength": 13.7422037422037,
   "linkStrength": 0.4002079002079,
   "linkDistance": 75,
-  "scale": 0.8193332093849576,
-  "close": false
+  "scale": 0.8193332093849575,
+  "close": true
 }

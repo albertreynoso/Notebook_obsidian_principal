@@ -1,5 +1,6 @@
 {
   "showUnsupportedFiles": true,
   "spellcheck": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder"
 }
