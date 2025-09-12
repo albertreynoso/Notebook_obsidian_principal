@@ -13,7 +13,7 @@ SUPERINTENSIVO
 1. Apoyo para el desarrollo de actividades virtuales en Cambridge, es decir: Workbook, Reviews and Tests.
 2. Apoyo para llevar clases completas, un colaborador (hombre o mujer), lleva sus clases por las participaciones y se resuelve el test al final de su clase.
 Contáctenos al número de whatsapp:
-https://wa.link/8hitle
+https://wa.link/p2ltn8
 #### Respuesta a mensajes de texto
 Hola buenas
 Coméntame un poco sobre tu caso, estás interesado en el servicio de apoyo en los ciclos de ingles del centro de idiomas o en el examen de clasificación?
@@ -21,3 +21,5 @@ Coméntame un poco sobre tu caso, estás interesado en el servicio de apoyo en l
 Hola buen día, no he tenido noticias desde la ultima vez que te envie el testimonio de mi ultimo caso de exito respecto al examen de clasificación. Seguirás interesado en el servicio o deseas que dejemos de escribirte?
 Hola buen día, no he tenido noticias tuyas después de nuestra ultima conversación, seguirás interesado en el servicio del examen de clasificación o deseas que dejemos de escribirte?
 #### Publicaciones y emails
+
+

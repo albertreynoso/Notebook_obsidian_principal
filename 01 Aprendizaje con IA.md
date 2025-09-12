@@ -84,6 +84,51 @@ Tu output final debe ser la tabla completa con texto introductorio y/o de conclu
 
 **Prompt 12 (Bonus): Plan de Aplicación Práctica**  
 "La verdadera maestría viene de la aplicación. Genera un plan de acción con 3-5 pasos concretos y prácticos sobre cómo puedo aplicar las lecciones clave de '[Título del Libro]' en mi vida personal, profesional o en mi forma de ver el mundo. ¿Qué behaviors o pensamientos debería cambiar o adoptar?"
-### Titulo 1
-### Titulo 2
+### Prompts para analizar partes especificas
+
+1. **Prompt de Descripción y Desglose Básico**
+
+> Actúa como un analista experto en [nombre de la disciplina, ej: teoría de sistemas, macroeconomía, neurología]. Describe detalladamente cada componente del diagrama que te proporcionaré. Explica la función de cada elemento, símbolo, forma y conexión. Identifica si el flujo es secuencial, circular, jerárquico o de red. No interpretes aún, solo describe objetivamente lo que se presenta visualmente.
+
+2. **Prompt de Contextualización e Importancia**
+
+> "Basándote en la descripción inicial, ¿cuál crees que es el propósito central de este diagrama dentro de su campo de conocimiento? ¿Qué concepto o proceso fundamental del libro/origen intenta representar? Explica por qué este diagrama es una herramienta valiosa para comprender ese tema en particular."
+
+3. **Prompt de Análisis de Relaciones y Flujos**
+
+> "Analiza las relaciones entre los componentes del diagrama. ¿Cómo se conectan e influyen entre sí los diferentes elementos? Identifica las entradas (inputs), procesos, salidas (outputs) y bucles de retroalimentación (feedback loops) si los hay. ¿Qué indica la dirección de las flechas o conexiones?"
+
+4. **Prompt de Interpretación y Significado Profundo**
+
+> Interpreta el significado conceptual completo del diagrama. ¿Qué teoría, modelo o marco de trabajo está representando? Explica con detalle cómo cada parte contribuye al todo. Si el diagrama representa un proceso, ¿cuáles son las etapas críticas y por qué son importantes?
+
+5. **Prompt de Aplicación Práctica y Ejemplos**
+
+> "Proporciona ejemplos concretos y prácticos de cómo se manifestaría o aplicaría este diagrama en un escenario del mundo real relacionado con su tema. Ilustra con casos hipotéticos o conocidos cómo cada elemento del diagrama toma vida."
+
+6. **Prompt de Integración con Conceptos Relacionados**
+
+> "¿Con qué otros conceptos, teorías o modelos fundamentales del mismo campo (o de campos complementarios) se relaciona este diagrama? Explica estas conexiones y cómo este diagrama ayuda a integrar conocimiento de manera más amplia."
+
+7. **Prompt de Evaluación Crítica y Limitaciones**
+
+> "Realiza una evaluación crítica de este modelo o diagrama. ¿Cuáles son sus principales fortalezas para explicar la realidad? ¿Qué limitaciones o simplificaciones podrían existir? ¿Qué aspectos del fenómeno que representa podrían quedar fuera de su scope?"
+
+8. **Prompt de Síntesis y Resumen Ejecutivo**
+
+> "Sintetiza la esencia de este diagrama conceptual en un párrafo claro y conciso, comprensible para alguien que no es especialista en la materia. Destaca la idea principal y su valor fundamental."
+### Prompts para la creación de diagramas
+1. Diagrama conceptual profesional
+
+> En base a la explicación anterior sobre [tema], crea un diagrama profesional en blanco y negro, con un estilo minimalista y claro. Representa cada concepto con figuras geométricas simples (rectángulos, círculos, flechas) y asegúrate de que las conexiones sean precisas y fáciles de seguir. El objetivo es que el diagrama sea entendible a primera vista y sirva como material educativo.
+
+2. Diagrama de flujo detallado
+
+> Usando la explicación previa, elabora un diagrama de flujo en blanco y negro que muestre de forma clara los pasos, decisiones y relaciones del proceso descrito. Utiliza símbolos estándar (rombos para decisiones, rectángulos para acciones, flechas para flujo) y ordénalos de manera jerárquica. El resultado debe ser un diagrama técnico, limpio y fácil de interpretar para un equipo de trabajo.
+
+3. Diagrama estructural explicativo
+
+> A partir de la explicación anterior, diseña un diagrama estructural en blanco y negro que muestre todos los elementos clave y sus relaciones. Usa etiquetas claras en cada bloque y organiza el diagrama de manera jerárquica para resaltar la importancia relativa de cada componente. Asegúrate de que el diseño final sea preciso, profesional y lo suficientemente detallado como para incluirse en un informe o presentación.
+
+
 ### Titulo 3

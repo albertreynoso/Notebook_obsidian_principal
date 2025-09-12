@@ -1,0 +1,13 @@
+### Producto académico 01
+Good evening dear teacher and classmates, I'm going to talk about my trip to chile.
+#### A Trip to Chile
+> In 2023, my father and I traveled to Santiago, Chile. Upon arrival, we immediately noticed that the city is dry and has a warm weater. The city was filled with active travelers and a significant number of tourists, creating a vibrant urban energy.
+> After spending a couple of days in the capital, we proceeded to go to the Bío Bío region, specifically the port city of Talcahuano. The primary objective of our visit was to tour the historical vessel, the great Monitor Huáscar, a key artifact of our naval history.
+> However, our plans were abruptly disrupted. Shortly after our arrival, numerous wildfires broke out across the region, leading local authorities to declare a state of emergency. Consequently, public access to cultural sites, including the Huáscar, was suspended for both tourists and local visitors.
+> This was a significant disappointment, as viewing the ship was a central motivation for our entire trip to Chile. While the circumstance was beyond our control, the experience underscored how travel must often adapt to external events, leaving some objectives unmet.
+> Nevertheless. Traveling to Chile was a good experience.
+#### Cultural Similarities and Differences: Peru and Chile
+
+> Now, talking about cultural diferences and similarities between Peru and Chile ... we share significant cultural commonalities rooted in our Hispanic heritage and similar colonial histories as we well know. Both capitals, Lima and Santiago, are major metropolitan centers characterized by dense populations, significant traffic congestion, and a fast-paced urban rhythm. However, distinct social norms and daily practices reveal important differences. For instance, while Peruvian culture often emphasizes good hospitality, tourists may find that in both countries, kindness is not universally extended by all individuals in busy urban environments. A notable contrast is the more visible public consumption of tobacco in Chile, where smoking in parks or on the street is relatively common and tobacco products are prominently displayed in stores. To respectfully engage with a culture different from ours, it is essential to approach these variations not through a lens of judgment but with curiosity and a primary objective of observation and learning. This means adapting to local customs, being mindful of social etiquette, and understanding that these practices are part of the country's unique social fabric. Ultimately, respect is demonstrated through a conscious effort to understand rather than to criticize, acknowledging that no custom is inherently superior to another. Tranks
+
+### Otras cosas 

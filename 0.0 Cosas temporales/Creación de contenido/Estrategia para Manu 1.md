@@ -83,3 +83,10 @@ Este es el paso MÁS IMPORTANTE. Un stream de 4 horas debe generar docenas de pi
 |**Hardware**|**Buena conexión a Internet**, micrófono de calidad (ej.: **HyperX QuadCast**, **Rode NT-USB**), cámara web HD (ej.: **Logitech C920/C922**), luz de ring light.|La calidad de audio es MÁS importante que la de video. Un sonido claro es no negociable.|
 
 Con este plan y el dominio de estas herramientas y habilidades, el streamer podrá sistematizar su creación de contenido, maximizar el alcance de cada hora que invierte en streaming y construir una marca sólida y reconocible en el competitivo mundo del poker online.
+
+
+
+![[Pasted image 20250908221225.png]]
+![[Pasted image 20250908221301.png]]
+![[Pasted image 20250908221413.png]]
+![[Pasted image 20250908221434.png]]
