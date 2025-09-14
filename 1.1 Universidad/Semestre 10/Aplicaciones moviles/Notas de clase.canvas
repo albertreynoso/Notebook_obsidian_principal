@@ -1,0 +1,123 @@
+{
+	"nodes":[
+		{"id":"2c226f388343d5ae","type":"file","file":"img/Pasted image 20250911153105.png","x":-520,"y":-360,"width":400,"height":214},
+		{"id":"efcb66cf827a61a7","type":"file","file":"img/Pasted image 20250911153113.png","x":-520,"y":0,"width":400,"height":257},
+		{
+			"id":"f9512b56d23888af",
+			"type":"text",
+			"text":"La carpeta de layout es donde se tiene la estructura y los elementos de una pantalla o un fragmento de pantall",
+			"styleAttributes":{},
+			"x":-100,
+			"y":0,
+			"width":260,
+			"height":120
+		},
+		{
+			"id":"4c91829bdf0d15a4",
+			"type":"text",
+			"text":"En la carpeta UI se tienen los fragmentos y las clases principales de las pantallas. ",
+			"styleAttributes":{},
+			"x":-100,
+			"y":-360,
+			"width":260,
+			"height":120
+		},
+		{"id":"b648148d35e3cce8","type":"file","file":"img/Pasted image 20250911160931.png","x":-520,"y":320,"width":400,"height":194},
+		{
+			"id":"4f6e4e78ce1ff7cf",
+			"type":"text",
+			"text":"Aqui estan los colores del proyecto,  ",
+			"styleAttributes":{},
+			"x":-100,
+			"y":320,
+			"width":260,
+			"height":119
+		},
+		{
+			"id":"85c25c336d29c030",
+			"type":"text",
+			"text":"Así funciona esta notificación como boton de mensaje",
+			"styleAttributes":{},
+			"x":-840,
+			"y":1140,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"04b2779b45bdf143",
+			"type":"text",
+			"text":"Estructura",
+			"styleAttributes":{},
+			"x":-550,
+			"y":1350,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"97153ceee295278a",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-550,
+			"y":1410,
+			"width":860,
+			"height":470
+		},
+		{"id":"953989af6d141059","type":"file","file":"Pasted image 20250912131705.png","x":-120,"y":1450,"width":400,"height":361},
+		{"id":"c54f6c4a37fb2ebd","type":"file","file":"Pasted image 20250912131836.png","x":-520,"y":1450,"width":400,"height":289},
+		{
+			"id":"ad9fafc60bb1a9bd",
+			"type":"text",
+			"text":"Toda funcionalidad que aparece en la pantalla tiene una parte en la estructura y el codigo de la pantalla. En la estructura se crean los elementos y se definen las posiciones, estan definidos por los archivos .XML en la carpetar RES/Layouts.\nCada una de esas estructuras debe ser llamada y utilizada por el orquestador, que tiene tipo de archivo .KT ya que estamos programando en lenguaje Kotlin, ubicado en la ui/home. ",
+			"styleAttributes":{},
+			"x":-840,
+			"y":1350,
+			"width":260,
+			"height":430
+		},
+		{
+			"id":"5ad2fcb498732377",
+			"type":"text",
+			"text":"Orquestador",
+			"styleAttributes":{},
+			"x":357,
+			"y":1350,
+			"width":260,
+			"height":60,
+			"color":"1"
+		},
+		{"id":"3439e329b4d21ef7","type":"file","file":"Pasted image 20250912132248.png","x":357,"y":1428,"width":400,"height":334},
+		{"id":"54824cce3c971e9a","type":"file","file":"img/Pasted image 20250911164926.png","x":-540,"y":1140,"width":400,"height":132},
+		{"id":"5da5beaf6edf97f5","type":"file","file":"img/Pasted image 20250911164944.png","x":-120,"y":1140,"width":400,"height":172},
+		{
+			"id":"e7d023ef30a23a75",
+			"type":"text",
+			"text":"Primero se hace la creación de los elementos de la pantalla en los layouts de la pantalla y despues en el fragmento.kt. En este caso\nfragment_home.xml (layout) -> HomeFragment.kt (funcionamiento)",
+			"styleAttributes":{},
+			"x":-840,
+			"y":640,
+			"width":260,
+			"height":240
+		},
+		{"id":"ae7918180da71f3d","type":"file","file":"img/Pasted image 20250911162018.png","x":-540,"y":640,"width":400,"height":376},
+		{"id":"898f65eba343c6bb","type":"file","file":"img/Pasted image 20250911162033.png","x":-120,"y":640,"width":231,"height":400},
+		{"id":"e39ab4e7c46e1228","type":"file","file":"img/Pasted image 20250911162048.png","x":140,"y":640,"width":354,"height":400},
+		{
+			"id":"5a6dd2f662edc1e4",
+			"type":"text",
+			"text":"Orden de programación:\n1. Estructura, posición, elementos graficos (archivos .xml)\n2. Orquestador, logica de programacion, importaciones, funciones",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":1425,
+			"width":260,
+			"height":235,
+			"color":"4"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
