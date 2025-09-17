@@ -1,90 +1,52 @@
 {
   "main": {
-    "id": "3d9f3eda60fb0101",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "735b6cfec418aa29",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "c2f98df81d93595d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Aprendizaje con IA.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01 Aprendizaje con IA"
-            }
-          },
-          {
-            "id": "4ae0793d543f73ea",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0 Cosas temporales/Biblioteca/Libros para descargar.md",
+                "file": "0.0 Cosas temporales/Lista de herramientas de pago.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Libros para descargar"
+              "title": "Lista de herramientas de pago"
             }
           },
           {
-            "id": "4d254e9cf4b6dcda",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1.1 Universidad/Semestre 10/Aplicaciones moviles/Notas de clase.canvas",
-                "viewState": {
-                  "x": -641.1998544259893,
-                  "y": 1757.3656551244999,
-                  "zoom": -0.3333333333333332
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Notas de clase"
-            }
-          },
-          {
-            "id": "748f479a3de0429b",
+            "id": "c6f0c37608386e85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.0 Cosas temporales/Diseño de apps/Aplicaciones moviles.md",
+                "file": "0.0 Cosas temporales/Lista de herramientas de pago.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aplicaciones moviles"
+              "title": "Lista de herramientas de pago"
             }
           },
           {
-            "id": "0381a760200ec6ce",
+            "id": "a4fba7b3137fe34f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.0 Cosas temporales/Diseño de apps/UXUI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UXUI"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,6 +216,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "media-extended:Open media": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -267,20 +232,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0381a760200ec6ce",
+  "active": "c6f0c37608386e85",
   "lastOpenFiles": [
-    "0.0 Cosas temporales/Diseño de apps/Aplicaciones moviles.md",
+    "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md",
+    "0.0 Cosas temporales/Proyectos de desarrollo/Stacks de desarrollo.md",
+    "Pasted image 20250916151717.png",
+    "0.0 Cosas temporales/Lista de herramientas de pago.md",
+    "Pasted image 20250916151011.png",
+    "0.0 Cosas temporales/Proyectos de desarrollo/Lista de proyectos de desarrollo.md",
+    "0.0 Cosas temporales/Proyecto administracion odontología/Detalle estructural.md",
+    "0.0 Cosas temporales/Proyectos de desarrollo",
+    "Untitled.md",
+    "0.0 Cosas temporales/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md",
+    "Pasted image 20250915192202.png",
+    "Pasted image 20250915190517.png",
+    "Pasted image 20250915190459.png",
+    "Pasted image 20250915190352.png",
+    "0.0 Cosas temporales/Biblioteca/Libros para descargar.md",
+    "img/Pasted image 20250912131705.png",
     "0.0 Cosas temporales/Diseño de apps/UXUI.md",
+    "0.0 Cosas temporales/Diseño de apps/Aplicaciones moviles.md",
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/Notas de clase.canvas",
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/1.02 Guías Prácticas N° 2.pdf",
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/2.01 CONSOLIDADO 1.1 - DAM - CONSIGNA DE LISTA DE COTEJO.pdf",
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/1.03 Guías Prácticas N° 3.pdf",
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/CONSOLIDADO 1.1 - DAM - CONSIGNA DE LISTA DE COTEJO.pdf",
-    "Pasted image 20250912132248.png",
-    "Pasted image 20250912131836.png",
-    "Pasted image 20250912131705.png",
-    "0.0 Cosas temporales/Biblioteca/Libros para descargar.md",
-    "0.0 Cosas temporales/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md",
+    "img/Pasted image 20250912132248.png",
+    "img/Pasted image 20250912131836.png",
     "0.0 Cosas temporales/Proyecto administracion odontología",
     "01 Aprendizaje con IA.md",
     "1.3 Negocios/Negocio de inglés/Registro de clientes.md",
@@ -290,12 +268,6 @@
     "1.2 Poker/NLHE Low stakes/Poker Magia/SRP IP CBET OTT.md",
     "0.0 Cosas temporales/Git/Git.md",
     "img/Pasted image 20250909192702.png",
-    "img/Pasted image 20250909172112.png",
-    "img/Pasted image 20250909172029.png",
-    "img/Pasted image 20250909171940.png",
-    "img/Pasted image 20250909171751.png",
-    "img/Pasted image 20250909162139.png",
-    "img/Pasted image 20250909162049.png",
     "1.3 Negocios/Negocio de inglés/Modelo de cierre de venta.md",
     "1.1 Universidad/Semestre 10/Conversation class/Producto academico-Mallma_Patiño.pdf",
     "1.1 Universidad/Semestre 10/Conversation class/Actividades.md",
@@ -308,16 +280,8 @@
     "0.0 Cosas temporales/Curso Creación con IA/Sobre monetización.md",
     "0.0 Cosas temporales/Curso Creación con IA/Creación de contenido con IA.md",
     "0.0 Cosas temporales/Curso Creación con IA/Notas de estudio.md",
-    "0.0 Cosas temporales/Curso Creación con IA/Análisis de nichos.md",
-    "0.0 Cosas temporales/Curso Creación con IA/Agentes de automatización y herramientas.md",
     "0.0 Cosas temporales/Curso Creación con IA",
-    "0.0 Cosas temporales/Creación de contenido/Plan de acción N°1.md",
-    "0.0 Cosas temporales/Creación de contenido/Herramientas.md",
-    "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md",
-    "0.0 Cosas temporales/Aprendiendo de motos/Motos.md",
-    "1.1 Universidad/Semestre 10/Auditoría de sistemas/0.0 Auditoria de sistemas.md",
     "1.2 Poker/NLHE Low stakes/Poker Magia/Teoría.canvas",
-    "1.1 Universidad/Semestre 10/Auditoría de sistemas/Unidad 01 Moodle.pdf",
     "1.2 Poker/NLHE Low stakes/Poker Magia/Análisis preflop 1.canvas",
     "Notebook principal/0.0 Cosas temporales/Aprendiendo obsidian/Graficos.canvas",
     "Notebook principal/1.2 Poker/NLHE Low stakes/Poker Magia/Análisis preflop 1.canvas",
