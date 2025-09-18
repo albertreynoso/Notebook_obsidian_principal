@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "0.0 Cosas temporales/Curso UXUI con Figma/Curso UXUI para desarrolladores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curso UXUI para desarrolladores"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -187,14 +191,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -205,6 +209,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "imagen1.1.png",
+    "Pasted image 20250918113434.png",
+    "Pasted image 20250918112623.png",
+    "imagen.png",
+    "Pasted image 20250918111043.png",
+    "Pasted image 20250918105040.png",
+    "Pasted image 20250918104914.png",
+    "Pasted image 20250918104744.png",
+    "Pasted image 20250918104658.png",
+    "0.0 Cosas temporales/Curso UXUI con Figma/Curso UXUI para desarrolladores.md",
     "0.0 Cosas temporales/Libros a descargar.md",
     "0.0 Cosas temporales/Lista de herramientas y cursos de pago.md",
     "Imagen de WhatsApp 2025-09-16 a las 17.01.05_70a08d9b.jpg",
@@ -212,16 +226,8 @@
     "0.0 Cosas temporales/Proyectos de desarrollo/Stacks de desarrollo.md",
     "0.0 Cosas temporales/Proyectos de desarrollo/Lista de proyectos de desarrollo.md",
     "0.0 Cosas temporales/Proyecto administracion odontología/Detalle estructural.md",
-    "Pasted image 20250915190517.png",
     "0.0 Cosas temporales/Curso UXUI con Figma/Intro Figma.md",
-    "img/Pasted image 20250916224351.png",
-    "img/Pasted image 20250916224315.png",
-    "img/Pasted image 20250916221644.png",
     "0.0 Cosas temporales/Flutter/Notas 1.md",
-    "img/Pasted image 20250917103557.png",
-    "img/Pasted image 20250917102634.png",
-    "img/Pasted image 20250917102946.png",
-    "img/Pasted image 20250917102913.png",
     "Notas prueba.md",
     "0.0 Cosas temporales/Curso UXUI con Figma",
     "0.0 Cosas temporales/Flutter",
@@ -251,7 +257,6 @@
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/Drawing 2025-09-11 15.08.08.excalidraw.md",
     "0.0 Cosas temporales/Inteligencia artificial/Inteligencia artificial.md",
     "0.0 Cosas temporales/Inteligencia artificial",
-    "0.0 Cosas temporales/Curso Creación con IA/Teoría de cinematografía y producción.md",
     "1.2 Poker/NLHE Low stakes/Poker Magia/Teoría.canvas",
     "1.2 Poker/NLHE Low stakes/Poker Magia/Análisis preflop 1.canvas",
     "Notebook principal/0.0 Cosas temporales/Aprendiendo obsidian/Graficos.canvas",

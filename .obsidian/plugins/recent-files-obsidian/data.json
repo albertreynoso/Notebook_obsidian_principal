@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Curso UXUI para desarrolladores",
+      "path": "0.0 Cosas temporales/Curso UXUI con Figma/Curso UXUI para desarrolladores.md"
+    },
+    {
       "basename": "Libros a descargar",
       "path": "0.0 Cosas temporales/Libros a descargar.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Teoría",
       "path": "1.2 Poker/NLHE Low stakes/Poker Magia/Teoría.canvas"
-    },
-    {
-      "basename": "Taller de proyectos",
-      "path": "1.1 Universidad/Semestre 10/Taller de proyectos/Taller de proyectos.md"
     }
   ],
   "omittedPaths": [],
