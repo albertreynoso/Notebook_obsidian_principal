@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4fba7b3137fe34f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.0 Cosas temporales/Proyectos de desarrollo/Stacks de desarrollo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stacks de desarrollo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -207,11 +203,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "a4fba7b3137fe34f",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "0.0 Cosas temporales/Libros a descargar.md",
+    "0.0 Cosas temporales/Lista de herramientas y cursos de pago.md",
+    "Imagen de WhatsApp 2025-09-16 a las 17.01.05_70a08d9b.jpg",
+    "Pasted image 20250917115744.png",
+    "0.0 Cosas temporales/Proyectos de desarrollo/Stacks de desarrollo.md",
     "0.0 Cosas temporales/Proyectos de desarrollo/Lista de proyectos de desarrollo.md",
     "0.0 Cosas temporales/Proyecto administracion odontología/Detalle estructural.md",
-    "0.0 Cosas temporales/Lista de herramientas de pago.md",
     "Pasted image 20250915190517.png",
     "0.0 Cosas temporales/Curso UXUI con Figma/Intro Figma.md",
     "img/Pasted image 20250916224351.png",
@@ -222,14 +222,10 @@
     "img/Pasted image 20250917102634.png",
     "img/Pasted image 20250917102946.png",
     "img/Pasted image 20250917102913.png",
-    "img/Pasted image 20250917102741.png",
-    "Pasted image 20250915190352.png",
     "Notas prueba.md",
     "0.0 Cosas temporales/Curso UXUI con Figma",
-    "0.0 Cosas temporales/Libros a descargar.md",
     "0.0 Cosas temporales/Flutter",
     "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md",
-    "0.0 Cosas temporales/Proyectos de desarrollo/Stacks de desarrollo.md",
     "0.0 Cosas temporales/Proyectos de desarrollo",
     "Untitled.md",
     "0.0 Cosas temporales/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md",

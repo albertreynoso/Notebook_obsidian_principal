@@ -1,5 +1,0 @@
-| Herramienta | Planes                               | Contratado                                                                                                                           |
-| ----------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| FIGMA       | ![[Pasted image 20250915190459.png]] | Todavía                                                                                                                              |
-| MOBBIN      | ![[Pasted image 20250915192202.png]] | Evitar filas de espera en restaurantes, ahorrar el costo de delivery, planificar comidas con anticipación, optimizar tiempo limitado |
-| KIRO        | ![[Pasted image 20250916151011.png]] | IA PARA EL DESARROLLO DE APLICACIONES                                                                                                |

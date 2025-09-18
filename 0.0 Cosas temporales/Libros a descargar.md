@@ -16,3 +16,5 @@ https://z-lib.fm/book/5869925/abbd10/costos-para-la-toma-de-decisiones.html?dsou
 https://z-lib.fm/book/2722400/06d63f/formulaci%C3%B3n-y-evaluaci%C3%B3n-de-proyectos.html?dsource=recommend
 https://z-lib.fm/book/11125691/9a7d0d/administraci%C3%B3n-de-proyectos-la-clave-para-la-coordinaci%C3%B3n-efectiva-de-actividades-y-recursos.html?dsource=recommend
 
+https://z-lib.fm/book/16678134/5d07d9/fundamentals-of-investing-global-edition-14th-ed.html?dsource=recommend
+https://z-lib.fm/book/16208466/aee3a0/ecommerce-2019-business-technology-and-society-15e.html?dsource=recommend
