@@ -113,7 +113,19 @@
 			"width":260,
 			"height":235,
 			"color":"4"
-		}
+		},
+		{"id":"f352dff58eb97d4c","type":"file","file":"Pasted image 20250918152002.png","x":-550,"y":1960,"width":400,"height":166},
+		{
+			"id":"7ef74cb61cb0bd30",
+			"type":"text",
+			"text":"Las notificaciones se pueden manejar por importancia, de acuerdo a eso puede utilizar sonido o no.",
+			"styleAttributes":{},
+			"x":-860,
+			"y":1960,
+			"width":260,
+			"height":120
+		},
+		{"id":"1283a13d71711879","type":"file","file":"Pasted image 20250918152119.png","x":-120,"y":1960,"width":400,"height":128}
 	],
 	"edges":[],
 	"metadata":{
