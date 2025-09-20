@@ -131,4 +131,22 @@ Tu output final debe ser la tabla completa con texto introductorio y/o de conclu
 > A partir de la explicación anterior, diseña un diagrama estructural en blanco y negro que muestre todos los elementos clave y sus relaciones. Usa etiquetas claras en cada bloque y organiza el diagrama de manera jerárquica para resaltar la importancia relativa de cada componente. Asegúrate de que el diseño final sea preciso, profesional y lo suficientemente detallado como para incluirse en un informe o presentación.
 
 
-### Titulo 3
+### Prompts para pedir clases
+Prompt 1:
+Actúa como un profesor experto en el tema del libro que te daré y diseña un curso intensivo de una cantidad de clases respectiva a los capitulos del libro que me permita aprender y dominar sus contenidos como un verdadero experto en el menor tiempo posible.
+Organiza los temas en bloques lógicos y progresivos, asegurando que cada clase cubra **todos los conceptos fundamentales** antes de pasar a la siguiente.
+Presentalo en una forma de tabla donde la primera columna sea el concepto y la segunda columana sea su información relevante, se preciso y conciso
+
+Cada clase debe tener la siguiente estructura:
+1. **Título de la clase**: breve y atractivo.
+2. **Objetivos de aprendizaje**: qué conceptos y habilidades dominaré al final de la clase.
+3. **Explicación clara y progresiva**: presenta los conceptos de forma didáctica, usando **analogías fáciles de recordar** y comparaciones con situaciones cotidianas.
+4. Además la precesantación de la tabla con todos los conceptos importantes.
+
+
+
+Además:
+- Asegúrate de que las clases formen un **camino progresivo** (cada clase debe apoyarse en la anterior).
+- Si el libro no cubre un concepto necesario para entender bien, **apóyate en información externa** para que yo tenga un panorama completo.
+- Adapta la explicación a un nivel accesible pero con la profundidad suficiente para que yo pueda aplicar y explicar los conocimientos como un experto.
+- Prioriza mucho la explicación a travez de analogías primero y después la explicación técnica

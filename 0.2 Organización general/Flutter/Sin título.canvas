@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"60899abf8ebca9ef","type":"file","file":"img/Pasted image 20250919221351.png","x":-180,"y":-380,"width":400,"height":368},
+		{
+			"id":"9204402e04527c32",
+			"type":"text",
+			"text":"AppBar class\n- La AppBar muestra los widgets de la barra de herramientas\n- ",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-380,
+			"width":260,
+			"height":220,
+			"color":"3"
+		},
+		{"id":"c9dec16eef171cc0","type":"file","file":"img/Pasted image 20250919221629.png","x":260,"y":-353,"width":400,"height":193},
+		{
+			"id":"0f633048fe9a7e3f",
+			"type":"text",
+			"text":"Scaffold class \n- La AppBar muestra los widgets de la barra de herramientas\n- ",
+			"styleAttributes":{},
+			"x":-480,
+			"y":-820,
+			"width":260,
+			"height":220,
+			"color":"3"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -156,5 +156,10 @@ To create a Flutter app with Android Studio, you first need to [install Flutter
 - **Ejecuta la app**
 
 ### Otro servicio
-## Otras cosas 
+## Importante 
+La meta en Flutter es crear los widgets más pequeños
+Dominar los valuenotifiers que se encargan del funcionamiento completo de la app
+
+Dominar el textfield y sus parametros min130 145
+conocer las diferencias entre el bracket function y el arrow function
 ## Otras cosas 
