@@ -6,89 +6,18 @@
       {
         "id": "4509724f8bf84da7",
         "type": "tabs",
-        "dimension": 48.674521354933724,
         "children": [
           {
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.2 Organización general/Agile software/Plan de estudios de DeepSeek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plan de estudios de DeepSeek"
-            }
-          },
-          {
-            "id": "241a73cf4f760bf9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0.2 Organización general/Flutter/Sin título.canvas",
-                "viewState": {
-                  "x": 21.466556285077417,
-                  "y": -365.7463732666124,
-                  "zoom": -1.0286018649307271
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sin título"
-            }
-          },
-          {
-            "id": "103965f50510bae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.2 Organización general/Proyecto administracion odontología/Detalle estructural.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Detalle estructural"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "497ed136c0aafabe",
-        "type": "tabs",
-        "dimension": 51.32547864506627,
-        "children": [
-          {
-            "id": "3b27cba5919a4453",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "0.2 Organización general/Flutter/WidgetsFlutter.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "WidgetsFlutter"
-            }
-          },
-          {
-            "id": "079497b464769e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.2 Organización general/Proyecto administracion odontología/Diseño de base de datos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diseño de base de datos"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,12 +203,24 @@
       "media-extended:Open media": false
     }
   },
-  "active": "079497b464769e26",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/0.1 Organización General.md",
+    "0.2 Organización general/Flutter/0.1 Organización General.md",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/Libro Beginning Dabase Design.md",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 android roadmap.pdf",
+    "0.2 Organización general/Flutter/Notas 1.md",
+    "0.2 Organización general/Flutter/Plan de estudios.md",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/Drawing 2025-09-22 12.29.26.excalidraw.md",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 ios roadmap.pdf",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 flutter roadmap.pdf",
+    "0.2 Organización general/Proyecto administracion odontología/Diseño de base de datos.md",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/Teoría de Databases relacionales.md",
+    "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md",
+    "0.0 Cosas temporales/Cosas utiles/Tutorial de como instalar y activar Office.md",
+    "0.0 Cosas temporales/Cosas utiles",
     "0.2 Organización general/Proyecto administracion odontología/Detalle estructural.md",
     "0.2 Organización general/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md",
-    "0.2 Organización general/Proyecto administracion odontología/Diseño de base de datos.md",
-    "0.2 Organización general/Diseño de apps/Teoría de Databases relacionales.md",
     "Pasted image 20250920152259.png",
     "Pasted image 20250920152246.png",
     "Pasted image 20250920152123.png",
@@ -290,17 +231,14 @@
     "Pasted image 20250920151554.png",
     "Pasted image 20250920151108.png",
     "01 Aprendizaje con IA.md",
-    "0.2 Organización general/Diseño de apps/Libro Beginning Dabase Design.md",
     "0.2 Organización general/Agile software/Plan de estudios de DeepSeek.md",
     "0.2 Organización general/Flutter/Sin título.canvas",
     "img/Pasted Image 20250920010048_871.png",
-    "0.2 Organización general/Flutter/Notas 1.md",
     "0.2 Organización general/Flutter/ProcesosFlutter.md",
     "0.2 Organización general/Flutter/WidgetsFlutter.md",
     "0.2 Organización general/Flutter/Widgets.md",
     "0.2 Organización general/Flutter/Plan de estudios por Notebook LM.md",
     "0.2 Organización general/Curso UXUI con Figma/Curso UXUI para desarrolladores.md",
-    "0.2 Organización general/Flutter/Plan de estudios.md",
     "0.2 Organización general/Agile software/Arquitecto de software plan de estudios.md",
     "0.2 Organización general/Agile software",
     "0.0 Cosas temporales/Libros a descargar.md",
@@ -308,23 +246,13 @@
     "0.0 Cosas temporales/Proyectos de desarrollo/Stacks de desarrollo.md",
     "0.0 Cosas temporales/Proyectos de desarrollo/Lista de proyectos de desarrollo.md",
     "0.2 Organización general/Curso UXUI con Figma/Intro Figma.md",
-    "Notas prueba.md",
     "0.2 Organización general/Curso UXUI con Figma",
     "0.2 Organización general/Flutter",
-    "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md",
     "0.0 Cosas temporales/Proyectos de desarrollo",
-    "Untitled.md",
-    "0.0 Cosas temporales/Biblioteca/Libros para descargar.md",
-    "0.2 Organización general/Diseño de apps/UXUI.md",
-    "0.2 Organización general/Diseño de apps/Aplicaciones moviles.md",
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/Notas de clase.canvas",
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/1.02 Guías Prácticas N° 2.pdf",
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/2.01 CONSOLIDADO 1.1 - DAM - CONSIGNA DE LISTA DE COTEJO.pdf",
-    "1.1 Universidad/Semestre 10/Aplicaciones moviles/1.03 Guías Prácticas N° 3.pdf",
-    "1.1 Universidad/Semestre 10/Aplicaciones moviles/CONSOLIDADO 1.1 - DAM - CONSIGNA DE LISTA DE COTEJO.pdf",
-    "0.2 Organización general/Proyecto administracion odontología",
     "1.2 Poker/NLHE Low stakes/Poker Magia/SRP IP.canvas",
-    "1.1 Universidad/Semestre 10/Conversation class/Producto academico-Mallma_Patiño.pdf",
     "1.2 Poker/NLHE Low stakes/Poker Magia/Teoría.canvas",
     "1.2 Poker/NLHE Low stakes/Poker Magia/Análisis preflop 1.canvas",
     "Notebook principal/0.0 Cosas temporales/Aprendiendo obsidian/Graficos.canvas",

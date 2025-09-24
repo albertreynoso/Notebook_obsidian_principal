@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "0.1 Organización General",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.1 Organización General.md"
+    },
+    {
+      "basename": "0.1 Organización General",
+      "path": "0.2 Organización general/Flutter/0.1 Organización General.md"
+    },
+    {
+      "basename": "Libro Beginning Dabase Design",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Libro Beginning Dabase Design.md"
+    },
+    {
+      "basename": "0.2 android roadmap",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 android roadmap.pdf"
+    },
+    {
+      "basename": "Notas 1",
+      "path": "0.2 Organización general/Flutter/Notas 1.md"
+    },
+    {
+      "basename": "Plan de estudios",
+      "path": "0.2 Organización general/Flutter/Plan de estudios.md"
+    },
+    {
+      "basename": "Drawing 2025-09-22 12.29.26.excalidraw",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Drawing 2025-09-22 12.29.26.excalidraw.md"
+    },
+    {
+      "basename": "0.2 ios roadmap",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 ios roadmap.pdf"
+    },
+    {
+      "basename": "0.2 flutter roadmap",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 flutter roadmap.pdf"
+    },
+    {
       "basename": "Diseño de base de datos",
       "path": "0.2 Organización general/Proyecto administracion odontología/Diseño de base de datos.md"
+    },
+    {
+      "basename": "Teoría de Databases relacionales",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Teoría de Databases relacionales.md"
+    },
+    {
+      "basename": "0.0 Lista de cosas o tecnologías que aprender",
+      "path": "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md"
+    },
+    {
+      "basename": "Tutorial de como instalar y activar Office",
+      "path": "0.0 Cosas temporales/Cosas utiles/Tutorial de como instalar y activar Office.md"
     },
     {
       "basename": "Detalle estructural",
@@ -13,16 +61,8 @@
       "path": "0.2 Organización general/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md"
     },
     {
-      "basename": "Teoría de Databases relacionales",
-      "path": "0.2 Organización general/Diseño de apps/Teoría de Databases relacionales.md"
-    },
-    {
       "basename": "01 Aprendizaje con IA",
       "path": "01 Aprendizaje con IA.md"
-    },
-    {
-      "basename": "Libro Beginning Dabase Design",
-      "path": "0.2 Organización general/Diseño de apps/Libro Beginning Dabase Design.md"
     },
     {
       "basename": "Plan de estudios de DeepSeek",
@@ -35,10 +75,6 @@
     {
       "basename": "Pasted Image 20250920010048_871",
       "path": "img/Pasted Image 20250920010048_871.png"
-    },
-    {
-      "basename": "Notas 1",
-      "path": "0.2 Organización general/Flutter/Notas 1.md"
     },
     {
       "basename": "ProcesosFlutter",
@@ -67,10 +103,6 @@
     {
       "basename": "Curso UXUI para desarrolladores",
       "path": "0.2 Organización general/Curso UXUI con Figma/Curso UXUI para desarrolladores.md"
-    },
-    {
-      "basename": "Plan de estudios",
-      "path": "0.2 Organización general/Flutter/Plan de estudios.md"
     },
     {
       "basename": "Arquitecto de software plan de estudios",
@@ -137,10 +169,6 @@
       "path": "img/Pasted image 20250915192202.png"
     },
     {
-      "basename": "0.0 Lista de cosas o tecnologías que aprender",
-      "path": "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md"
-    },
-    {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
@@ -154,11 +182,11 @@
     },
     {
       "basename": "UXUI",
-      "path": "0.2 Organización general/Diseño de apps/UXUI.md"
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/UXUI.md"
     },
     {
       "basename": "Aplicaciones moviles",
-      "path": "0.2 Organización general/Diseño de apps/Aplicaciones moviles.md"
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Aplicaciones moviles.md"
     },
     {
       "basename": "Pasted image 20250912131836",
@@ -171,34 +199,6 @@
     {
       "basename": "2.01 CONSOLIDADO 1.1 - DAM - CONSIGNA DE LISTA DE COTEJO",
       "path": "1.1 Universidad/Semestre 10/Aplicaciones moviles/2.01 CONSOLIDADO 1.1 - DAM - CONSIGNA DE LISTA DE COTEJO.pdf"
-    },
-    {
-      "basename": "Pasted image 20250911162048",
-      "path": "img/Pasted image 20250911162048.png"
-    },
-    {
-      "basename": "Pasted image 20250911162033",
-      "path": "img/Pasted image 20250911162033.png"
-    },
-    {
-      "basename": "Pasted image 20250911162018",
-      "path": "img/Pasted image 20250911162018.png"
-    },
-    {
-      "basename": "Pasted image 20250911164944",
-      "path": "img/Pasted image 20250911164944.png"
-    },
-    {
-      "basename": "Pasted image 20250911164926",
-      "path": "img/Pasted image 20250911164926.png"
-    },
-    {
-      "basename": "Pasted image 20250912132248",
-      "path": "img/Pasted image 20250912132248.png"
-    },
-    {
-      "basename": "Registro de clientes",
-      "path": "1.3 Negocios/Negocio de inglés/Registro de clientes.md"
     }
   ],
   "omittedPaths": [],
