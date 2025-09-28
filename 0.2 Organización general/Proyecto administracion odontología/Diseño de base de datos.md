@@ -4,6 +4,8 @@ Un tratamiento puede tener varias citas, una cita solo puede pertenecer a un tra
 
 Un tratamiento está compuesto por una cantidad determinada de citas
 
+Motivos por los que se hace una cita, problemas especificos, controles de tratamiento?
+
 
 Preguntas:
 ¿Cómo funcionan los días libres y los permisos?

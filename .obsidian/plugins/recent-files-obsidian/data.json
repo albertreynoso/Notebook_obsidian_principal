@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Detalle estructural",
+      "path": "0.2 Organización general/Proyecto administracion odontología/Detalle estructural.md"
+    },
+    {
+      "basename": "Diseño de base de datos",
+      "path": "0.2 Organización general/Proyecto administracion odontología/Diseño de base de datos.md"
+    },
+    {
+      "basename": "Consideraciones para iniciar el proyecto",
+      "path": "0.2 Organización general/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md"
+    },
+    {
+      "basename": "ProcesosFlutter",
+      "path": "0.2 Organización general/Flutter/ProcesosFlutter.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "0.2 Organización general/Flutter/Sin título.canvas"
+    },
+    {
+      "basename": "WidgetsFlutter",
+      "path": "0.2 Organización general/Flutter/WidgetsFlutter.md"
+    },
+    {
+      "basename": "Widgets",
+      "path": "0.2 Organización general/Flutter/Widgets.md"
+    },
+    {
+      "basename": "Drawing 2025-09-22 12.29.26.excalidraw",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Drawing 2025-09-22 12.29.26.excalidraw.md"
+    },
+    {
+      "basename": "Aplicaciones moviles",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Aplicaciones moviles.md"
+    },
+    {
       "basename": "0.1 Organización General",
       "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.1 Organización General.md"
+    },
+    {
+      "basename": "Tutorial de limpiar pc, laptops",
+      "path": "0.0 Cosas temporales/Cosas utiles/Tutorial de limpiar pc, laptops.md"
+    },
+    {
+      "basename": "Notas importantes.excalidraw",
+      "path": "0.2 Organización general/Notas importantes.excalidraw.md"
+    },
+    {
+      "basename": "Teoría SQL",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Teoría SQL.md"
     },
     {
       "basename": "0.1 Organización General",
@@ -25,20 +73,12 @@
       "path": "0.2 Organización general/Flutter/Plan de estudios.md"
     },
     {
-      "basename": "Drawing 2025-09-22 12.29.26.excalidraw",
-      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Drawing 2025-09-22 12.29.26.excalidraw.md"
-    },
-    {
       "basename": "0.2 ios roadmap",
       "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 ios roadmap.pdf"
     },
     {
       "basename": "0.2 flutter roadmap",
       "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 flutter roadmap.pdf"
-    },
-    {
-      "basename": "Diseño de base de datos",
-      "path": "0.2 Organización general/Proyecto administracion odontología/Diseño de base de datos.md"
     },
     {
       "basename": "Teoría de Databases relacionales",
@@ -53,14 +93,6 @@
       "path": "0.0 Cosas temporales/Cosas utiles/Tutorial de como instalar y activar Office.md"
     },
     {
-      "basename": "Detalle estructural",
-      "path": "0.2 Organización general/Proyecto administracion odontología/Detalle estructural.md"
-    },
-    {
-      "basename": "Consideraciones para iniciar el proyecto",
-      "path": "0.2 Organización general/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md"
-    },
-    {
       "basename": "01 Aprendizaje con IA",
       "path": "01 Aprendizaje con IA.md"
     },
@@ -69,28 +101,12 @@
       "path": "0.2 Organización general/Agile software/Plan de estudios de DeepSeek.md"
     },
     {
-      "basename": "Sin título",
-      "path": "0.2 Organización general/Flutter/Sin título.canvas"
-    },
-    {
       "basename": "Pasted Image 20250920010048_871",
       "path": "img/Pasted Image 20250920010048_871.png"
     },
     {
-      "basename": "ProcesosFlutter",
-      "path": "0.2 Organización general/Flutter/ProcesosFlutter.md"
-    },
-    {
-      "basename": "WidgetsFlutter",
-      "path": "0.2 Organización general/Flutter/WidgetsFlutter.md"
-    },
-    {
       "basename": "Pasted image 20250919221351",
       "path": "img/Pasted image 20250919221351.png"
-    },
-    {
-      "basename": "Widgets",
-      "path": "0.2 Organización general/Flutter/Widgets.md"
     },
     {
       "basename": "Plan de estudios por Notebook LM",
@@ -183,22 +199,6 @@
     {
       "basename": "UXUI",
       "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/UXUI.md"
-    },
-    {
-      "basename": "Aplicaciones moviles",
-      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Aplicaciones moviles.md"
-    },
-    {
-      "basename": "Pasted image 20250912131836",
-      "path": "img/Pasted image 20250912131836.png"
-    },
-    {
-      "basename": "1.02 Guías Prácticas N° 2",
-      "path": "1.1 Universidad/Semestre 10/Aplicaciones moviles/1.02 Guías Prácticas N° 2.pdf"
-    },
-    {
-      "basename": "2.01 CONSOLIDADO 1.1 - DAM - CONSIGNA DE LISTA DE COTEJO",
-      "path": "1.1 Universidad/Semestre 10/Aplicaciones moviles/2.01 CONSOLIDADO 1.1 - DAM - CONSIGNA DE LISTA DE COTEJO.pdf"
     }
   ],
   "omittedPaths": [],

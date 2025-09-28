@@ -33,11 +33,37 @@ Personal
 	Buscar personal
 	Filtro empleado
 	Ordenar por
+Pacientes
+	lista de pacientes
+		Ingresar al perfil del paciente
+		Ver datos
+		poner un avatar en el perfil
+		Ver resumen
+		Tratamientos (no puede ser una ventana (sub pagina))
+		detalle de pagos
+		![[Pasted image 20250927221944.png]]
+		Utilizar una vista similar para tratamientos y pagos
 Tratamientos
 	Detalle
 	Citas y recumen de citas
 Pagos
 Analiticas
+
+
+
+Diseño de estructura
+Home
+Tratamiento
+Agenda
+	Calendario hasta media pagina
+	Modulo citas próximos (puede ir en la principal)
+	![[Pasted image 20250925210720.png|200]]
+	
+	
+	
+
+
+
 
 
 #### Aplicación por usuario:
