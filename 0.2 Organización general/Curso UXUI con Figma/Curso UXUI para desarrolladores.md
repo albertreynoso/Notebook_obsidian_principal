@@ -290,7 +290,7 @@ Paso a paso para Benchmark
 		3. Comunicación: Las palabras usadas en los elementos de interacción permiten que el usuario pueda llevar adelante la tarea y no presta a confusión.
 3. Interactura y explorar interfaces: 
 4. Comparar resultados: Crear una tabla de doble entrada en la que se contrasten las diferentes interfaces según los puntos de relevancia definidos.
-5. Elaborar un informe: Conclusiones sobre los hallazgos encontrados
+5. Elaborar un informe: Conclusiones sobre los hallazgos encontradosgit 
 6. 
 
 #### Otro tema
