@@ -1,0 +1,2 @@
+1. Creación de un sistema organizado en Notion para hacer UX Research de funcionalidades, usuarios, productos, con diferentes características y sistemas
+2. Duplicar ese sistema para cada proyecto que se quiera ejecutar.

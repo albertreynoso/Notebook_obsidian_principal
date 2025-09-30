@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Curso UXUI para desarrolladores",
+      "path": "0.2 Organización general/Curso UXUI con Figma/Curso UXUI para desarrolladores.md"
+    },
+    {
+      "basename": "Metodología de trabajo",
+      "path": "0.2 Organización general/Curso UXUI con Figma/Metodología de trabajo.md"
+    },
+    {
+      "basename": "Intro Figma",
+      "path": "0.2 Organización general/Curso UXUI con Figma/Intro Figma.md"
+    },
+    {
       "basename": "Detalle estructural",
       "path": "0.2 Organización general/Proyecto administracion odontología/Detalle estructural.md"
     },
@@ -117,10 +129,6 @@
       "path": "img/Pasted image 20250919221629.png"
     },
     {
-      "basename": "Curso UXUI para desarrolladores",
-      "path": "0.2 Organización general/Curso UXUI con Figma/Curso UXUI para desarrolladores.md"
-    },
-    {
       "basename": "Arquitecto de software plan de estudios",
       "path": "0.2 Organización general/Agile software/Arquitecto de software plan de estudios.md"
     },
@@ -165,10 +173,6 @@
       "path": "img/Pasted image 20250915190517.png"
     },
     {
-      "basename": "Intro Figma",
-      "path": "0.2 Organización general/Curso UXUI con Figma/Intro Figma.md"
-    },
-    {
       "basename": "Pasted image 20250915190352",
       "path": "img/Pasted image 20250915190352.png"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20250912131705",
       "path": "img/Pasted image 20250912131705.png"
-    },
-    {
-      "basename": "UXUI",
-      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/UXUI.md"
     }
   ],
   "omittedPaths": [],
