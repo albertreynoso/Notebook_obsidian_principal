@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.2 Organización general/Proyecto administracion odontología/Detalle estructural.md",
+                "file": "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Detalle estructural"
+              "title": "0.0 Lista de cosas o tecnologías que aprender"
+            }
+          },
+          {
+            "id": "c6f0c37608386e85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0.0 Lista de cosas o tecnologías que aprender"
+            }
+          },
+          {
+            "id": "a4fba7b3137fe34f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +69,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -53,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20250915190459",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +105,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -177,8 +202,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -191,72 +216,72 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c6f0c37608386e85",
   "lastOpenFiles": [
-    "Pasted image 20250927221944.png",
+    "img/Pasted image 20250919221629.png",
+    "img/Pasted image 20250919221356.png",
+    "img/Pasted image 20250919221351.png",
+    "img/Pasted image 20250918191520.png",
+    "img/Pasted image 20250918190059.png",
+    "img/Pasted image 20250918183920.png",
+    "img/Pasted image 20250918152119.png",
+    "img/Pasted image 20250918152002.png",
+    "img/Pasted image 20250918113434.png",
+    "img/Pasted image 20250918112623.png",
+    "img/Pasted image 20250918111043.png",
+    "0.0 Cosas temporales/Lista de herramientas de pago.md",
     "0.2 Organización general/Proyecto administracion odontología/Diseño de base de datos.md",
     "0.2 Organización general/Proyecto administracion odontología/Detalle estructural.md",
-    "Pasted image 20250925210720.png",
-    "Pasted image 20250925210717.png",
     "0.2 Organización general/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md",
-    "0.2 Organización general/Flutter/ProcesosFlutter.md",
-    "0.2 Organización general/Flutter/Sin título.canvas",
     "0.2 Organización general/Flutter/WidgetsFlutter.md",
     "0.2 Organización general/Flutter/Widgets.md",
+    "0.2 Organización general/Flutter/Sin título.canvas",
+    "0.2 Organización general/Flutter/ProcesosFlutter.md",
+    "0.2 Organización general/Flutter/Plan de estudios.md",
+    "0.2 Organización general/Flutter/Plan de estudios por Notebook LM.md",
+    "0.2 Organización general/Flutter/Notas 1.md",
+    "0.2 Organización general/Flutter/0.1 Organización General.md",
+    "0.2 Organización general/Curso UXUI con Figma/Intro Figma.md",
+    "0.2 Organización general/Curso UXUI con Figma/Curso UXUI para desarrolladores.md",
+    "0.2 Organización general/Agile software/Plan de estudios de DeepSeek.md",
+    "0.2 Organización general/Agile software/Arquitecto de software plan de estudios.md",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/UXUI.md",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/Teoría SQL.md",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/Teoría de Databases relacionales.md",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/Libro Beginning Dabase Design.md",
     "0.2 Organización general/0.1 Tecnologías de desarrollo/Drawing 2025-09-22 12.29.26.excalidraw.md",
     "0.2 Organización general/0.1 Tecnologías de desarrollo/Aplicaciones moviles.md",
-    "0.2 Organización general/0.1 Tecnologías de desarrollo/0.1 Organización General.md",
-    "0.0 Cosas temporales/Cosas utiles/Tutorial de limpiar pc, laptops.md",
-    "0.2 Organización general/Notas importantes.excalidraw.md",
-    "0.2 Organización general/0.1 Tecnologías de desarrollo/Teoría SQL.md",
-    "Pasted image 20250924132045.png",
-    "Pasted image 20250924131851.png",
-    "Pasted image 20250924131414.png",
-    "Pasted image 20250924130436.png",
-    "Pasted image 20250924123444.png",
-    "Pasted image 20250924121402.png",
-    "0.2 Organización general/Flutter/0.1 Organización General.md",
-    "0.2 Organización general/0.1 Tecnologías de desarrollo/Libro Beginning Dabase Design.md",
-    "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 android roadmap.pdf",
-    "0.2 Organización general/Flutter/Notas 1.md",
-    "0.2 Organización general/Flutter/Plan de estudios.md",
     "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 ios roadmap.pdf",
     "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 flutter roadmap.pdf",
-    "0.2 Organización general/0.1 Tecnologías de desarrollo/Teoría de Databases relacionales.md",
-    "0.0 Cosas temporales/0.0 Lista de cosas o tecnologías que aprender.md",
-    "0.0 Cosas temporales/Cosas utiles/Tutorial de como instalar y activar Office.md",
-    "0.0 Cosas temporales/Cosas utiles",
-    "Pasted image 20250920152259.png",
-    "Pasted image 20250920152246.png",
-    "01 Aprendizaje con IA.md",
-    "0.2 Organización general/Agile software/Plan de estudios de DeepSeek.md",
-    "0.2 Organización general/Flutter/Plan de estudios por Notebook LM.md",
-    "0.2 Organización general/Curso UXUI con Figma/Curso UXUI para desarrolladores.md",
-    "0.2 Organización general/Agile software/Arquitecto de software plan de estudios.md",
-    "0.2 Organización general/Agile software",
-    "0.0 Cosas temporales/Libros a descargar.md",
-    "0.2 Organización general/Curso UXUI con Figma",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 android roadmap.pdf",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo/0.1 Organización General.md",
+    "0.2 Organización general/Proyecto administracion odontología",
+    "0.2 Organización general/Organización.excalidraw.md",
+    "0.2 Organización general/Notas importantes.excalidraw.md",
     "0.2 Organización general/Flutter",
-    "0.0 Cosas temporales/Proyectos de desarrollo",
+    "0.2 Organización general/Curso UXUI con Figma",
+    "0.2 Organización general/Agile software",
+    "0.2 Organización general/0.1 Tecnologías de desarrollo",
+    "0.2 Organización general",
+    "0.0 Cosas temporales/Lista de herramientas y cursos de pago.md",
+    "0.0 Cosas temporales/Cosas utiles",
     "1.1 Universidad/Semestre 10/Aplicaciones moviles/Notas de clase.canvas",
-    "1.1 Universidad/Semestre 10/Aplicaciones moviles/1.02 Guías Prácticas N° 2.pdf",
-    "1.1 Universidad/Semestre 10/Aplicaciones moviles/2.01 CONSOLIDADO 1.1 - DAM - CONSIGNA DE LISTA DE COTEJO.pdf",
     "1.2 Poker/NLHE Low stakes/Poker Magia/SRP IP.canvas",
     "1.2 Poker/NLHE Low stakes/Poker Magia/Teoría.canvas",
     "1.2 Poker/NLHE Low stakes/Poker Magia/Análisis preflop 1.canvas",
