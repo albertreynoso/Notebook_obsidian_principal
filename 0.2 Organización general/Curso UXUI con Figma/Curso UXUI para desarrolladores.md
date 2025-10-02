@@ -239,8 +239,69 @@ Un equipo que da y recibe feedback de forma constructiva es más eficiente y cre
 Dar feedback de diseño siendo desarrollador no es solo una oportunidad para mejorar los proyectos, es una forma de fortalecer la colaboración en tu equipo. Al ser claro, constructivo y enfocar tus comentarios en el usuario final, te conviertes en un aliado clave del diseño y elevas la calidad del producto.
 
 Así que la próxima vez que veas un diseño, no dudes en dar tu opinión. ¡Hacelo con propósito, creatividad y empatía! 😊
-#### Otro tema
+#### Usabilidad
+**Qué es?**
+Es la facilidad de uso con la que una persona interactua con un producto o servicio. En el marco UX/UI estudia la forma de diseñar sitios web, apps, etc. Para que los usuarios puedan interactuar con ellos lo más fácil, cómoda e intuitivamente posible. La mejor forma de crear un diseño usable es realizando un diseño centrado en el usuario. 
+**Se mide a travéz de 3 factores satisfacción, eficiencia y eficacia**
+![[Pasted image 20250930143556.png|400]]
+Conceptos importantes:
+(El reto está en encontrar un equilibrio entre la satisfacción, sin comprometer la eficacia ni la eficiencia del producto). Si una solución no es eficaz, no puede ser eficiente.
+- Eficacia: Lograr "x" objetivo planteado
+- Eficiencia: Lograr "x" objetivo usando la menor cantidad de recursos, pasos, etc.
+- Satisfacción: Cómo se siente el usuario al utilizar la interfaz para lograr "x" objetivo
+
 #### Otro tema
 
-### Unidad 1.0
+### Unidad 3 - Research y Arquitectura de la información 
+ **¿Qué vas a trabajar en esta unidad?**
+**Introducción al UX Research**: qué es investigar en diseño y cómo se aplica sin ser investigador profesional.
+**Desk Research y Benchmarking**: cómo obtener aprendizajes valiosos sin tener que salir a entrevistar gente desde el día uno.
+**Modelos mentales y cómo influyen en las decisiones de navegación**: entender cómo esperan los usuarios que funcione tu app.
+**Card Sorting y arquitectura de la información**: cómo organizar el contenido para que tenga sentido y sea fácil de encontrar.
+**Flujos de navegación, user flows y task flows**: cómo pensar recorridos lógicos para tareas concretas.
+**Métricas y heurísticas de usabilidad**: cómo evaluar si lo que estás diseñando va por buen camino o no.
+#### UX Research
+¿Que es?
+La investigación o UX Research es un componente esencial en el desarrollo de un producto, ya que proporciona información critica sobre las necesidades, comportamientos y problemas de los usuarios. Va mas allá de los usuarios, productos, mercados.
+Importancia:
+- Desarrollar productos realmente significativos para las personas
+- Crear interfaces que sean intuitivas y agradables de usar
+- Comprender el entorno de inversión del diseño de experiencias
+![[img UX Research.png]]
+#### Desk Research
+Es un metodo que implica el uso de datos ya existentes. Este enfoque mejora la eficacia general del proyecto.
+Ejemplo:
+- **Buscar productos/servicios similares**: Productos que tengan funcionalidades similares, si son apps podríamos revisar tanto los comentarios y reseñas.
+- **Reviews, testimonios, etc**: Se puede investigar articulos y estudios de caso publicados en blogs, revistas especializadas y sitios web de la industria.
+- **Articulos o contenidos relacionados**
+- **AIs**: Hacer prompts que te ayuden a tener una idea más aterrizada de las características de los usuarios o productos.
+Paso a paso para construir un Desk Research
+1. Buscar pasos similares: Apps de fitness populares como "Nike training club", "Fitbod", "MyFirstPal" y "Strava".
+2. Ver funcionalidades, flujos y diseños: Explorar miles de aplicaciones o paginas web existentes.
+3. Buscar reseñas positivas y negativas: Observa qué aspectos destacan en las reseñas positivas y cuáles son las críticas comunes en las reseñas negativas.
+4. Articulos relacionados: Investiga articulos y estudios de caso en blogs especializados de fitness y tecnología, así como en revistas de salud y bienestar.
+#### Benchmark
+Es una metodología que permite conocer la posición de un producto en relación a su competencia en un momento determinado. Los resultados obtenidos facilitan el conocimiento de las fortalezas y debilidades, lo cual es crucial para la creación de un prototipo.
+Paso a paso para Benchmark
+1. Definir los productos/servicios a analizar: Seleccionar las aplicaciones y plataformas que sean competidores directos o indirectos de tu producto.
+2. Definir qué puntos de relevancia vamos a analizar: Indentifica los aspectos clave que determinaran qué aspectos de las interfaces serán analizados y comparados. 
+		1. Usabilidad e interacción: Analiza cuantos pasos necesita el usuario para completar una tarea clave, la claridad de los flujos y si la navegación es intuitiva.
+		2. Estética y consistencia: Revisa si los elementos visuales mantinen coherencia a lo largo de toda la app y si el diseño sigue una guía clara.
+		3. Comunicación: Las palabras usadas en los elementos de interacción permiten que el usuario pueda llevar adelante la tarea y no presta a confusión.
+3. Interactura y explorar interfaces: 
+4. Comparar resultados: Crear una tabla de doble entrada en la que se contrasten las diferentes interfaces según los puntos de relevancia definidos.
+5. Elaborar un informe: Conclusiones sobre los hallazgos encontradosgit 
+6. 
+
+#### Otro tema
+
+#### Otro tema
+
+#### Otro tema
+
+#### Otro tema
+
+#### Otro tema
+
+
 ### Unidad 1.0
