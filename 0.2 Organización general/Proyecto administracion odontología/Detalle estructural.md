@@ -43,6 +43,7 @@ Pacientes
 		detalle de pagos
 		![[Pasted image 20250927221944.png]]
 		Utilizar una vista similar para tratamientos y pagos
+		
 Tratamientos
 	Detalle
 	Citas y recumen de citas
