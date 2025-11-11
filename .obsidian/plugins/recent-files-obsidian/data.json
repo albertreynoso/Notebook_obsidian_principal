@@ -1,6 +1,78 @@
 {
   "recentFiles": [
     {
+      "basename": "Consideraciones para iniciar el proyecto",
+      "path": "0.2 Organización general/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md"
+    },
+    {
+      "basename": "Sin título",
+      "path": "Sin título.md"
+    },
+    {
+      "basename": "Detalle estructural",
+      "path": "0.2 Organización general/Proyecto administracion odontología/Detalle estructural.md"
+    },
+    {
+      "basename": "Plan de estudios por Notebook LM",
+      "path": "0.2 Organización general/Flutter/Plan de estudios por Notebook LM.md"
+    },
+    {
+      "basename": "Plan de estudios",
+      "path": "0.2 Organización general/Flutter/Plan de estudios.md"
+    },
+    {
+      "basename": "Notas 1",
+      "path": "0.2 Organización general/Flutter/Notas 1.md"
+    },
+    {
+      "basename": "ProcesosFlutter",
+      "path": "0.2 Organización general/Flutter/ProcesosFlutter.md"
+    },
+    {
+      "basename": "0.1 Organización General",
+      "path": "0.2 Organización general/Flutter/0.1 Organización General.md"
+    },
+    {
+      "basename": "Borrador",
+      "path": "0.2 Organización general/Flutter/Procedimientos/Borrador.md"
+    },
+    {
+      "basename": "Conectar la App con Firebase",
+      "path": "0.2 Organización general/Flutter/Procedimientos/Conectar la App con Firebase.md"
+    },
+    {
+      "basename": "Creación de un CRUD",
+      "path": "0.2 Organización general/Flutter/Procedimientos/Creación de un CRUD.md"
+    },
+    {
+      "basename": "Creación screen tree barra inferior",
+      "path": "0.2 Organización general/Flutter/Procedimientos/Creación screen tree barra inferior.md"
+    },
+    {
+      "basename": "Diseño de base de datos",
+      "path": "0.2 Organización general/Proyecto administracion odontología/Diseño de base de datos.md"
+    },
+    {
+      "basename": "0.1 Organización General",
+      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.1 Organización General.md"
+    },
+    {
+      "basename": "Taller de proyectos",
+      "path": "1.1 Universidad/Semestre 10/Taller de proyectos/Taller de proyectos.md"
+    },
+    {
+      "basename": "Entrega parcial",
+      "path": "1.1 Universidad/Semestre 10/Taller de investigación/Entrega parcial.md"
+    },
+    {
+      "basename": "Proyecto apps moviles",
+      "path": "0.2 Organización general/Flutter/Proyecto apps moviles.md"
+    },
+    {
+      "basename": "WidgetsFlutter",
+      "path": "0.2 Organización general/Flutter/WidgetsFlutter.md"
+    },
+    {
       "basename": "01 Aprendizaje con IA",
       "path": "01 Aprendizaje con IA.md"
     },
@@ -21,28 +93,8 @@
       "path": "0.2 Organización general/Curso UXUI con Figma/Intro Figma.md"
     },
     {
-      "basename": "Detalle estructural",
-      "path": "0.2 Organización general/Proyecto administracion odontología/Detalle estructural.md"
-    },
-    {
-      "basename": "Diseño de base de datos",
-      "path": "0.2 Organización general/Proyecto administracion odontología/Diseño de base de datos.md"
-    },
-    {
-      "basename": "Consideraciones para iniciar el proyecto",
-      "path": "0.2 Organización general/Proyecto administracion odontología/Consideraciones para iniciar el proyecto.md"
-    },
-    {
-      "basename": "ProcesosFlutter",
-      "path": "0.2 Organización general/Flutter/ProcesosFlutter.md"
-    },
-    {
       "basename": "Sin título",
       "path": "0.2 Organización general/Flutter/Sin título.canvas"
-    },
-    {
-      "basename": "WidgetsFlutter",
-      "path": "0.2 Organización general/Flutter/WidgetsFlutter.md"
     },
     {
       "basename": "Widgets",
@@ -57,10 +109,6 @@
       "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Aplicaciones moviles.md"
     },
     {
-      "basename": "0.1 Organización General",
-      "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.1 Organización General.md"
-    },
-    {
       "basename": "Tutorial de limpiar pc, laptops",
       "path": "0.0 Cosas temporales/Cosas utiles/Tutorial de limpiar pc, laptops.md"
     },
@@ -73,24 +121,12 @@
       "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Teoría SQL.md"
     },
     {
-      "basename": "0.1 Organización General",
-      "path": "0.2 Organización general/Flutter/0.1 Organización General.md"
-    },
-    {
       "basename": "Libro Beginning Dabase Design",
       "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/Libro Beginning Dabase Design.md"
     },
     {
       "basename": "0.2 android roadmap",
       "path": "0.2 Organización general/0.1 Tecnologías de desarrollo/0.2 android roadmap.pdf"
-    },
-    {
-      "basename": "Notas 1",
-      "path": "0.2 Organización general/Flutter/Notas 1.md"
-    },
-    {
-      "basename": "Plan de estudios",
-      "path": "0.2 Organización general/Flutter/Plan de estudios.md"
     },
     {
       "basename": "0.2 ios roadmap",
@@ -123,10 +159,6 @@
     {
       "basename": "Pasted image 20250919221351",
       "path": "img/Pasted image 20250919221351.png"
-    },
-    {
-      "basename": "Plan de estudios por Notebook LM",
-      "path": "0.2 Organización general/Flutter/Plan de estudios por Notebook LM.md"
     },
     {
       "basename": "Pasted image 20250919221629",
@@ -163,42 +195,6 @@
     {
       "basename": "Stacks de desarrollo",
       "path": "0.0 Cosas temporales/Proyectos de desarrollo/Stacks de desarrollo.md"
-    },
-    {
-      "basename": "Lista de proyectos de desarrollo",
-      "path": "0.0 Cosas temporales/Proyectos de desarrollo/Lista de proyectos de desarrollo.md"
-    },
-    {
-      "basename": "Pasted image 20250915190517",
-      "path": "img/Pasted image 20250915190517.png"
-    },
-    {
-      "basename": "Pasted image 20250915190352",
-      "path": "img/Pasted image 20250915190352.png"
-    },
-    {
-      "basename": "Notas prueba",
-      "path": "Notas prueba.md"
-    },
-    {
-      "basename": "Pasted image 20250916151717",
-      "path": "img/Pasted image 20250916151717.png"
-    },
-    {
-      "basename": "Pasted image 20250915192202",
-      "path": "img/Pasted image 20250915192202.png"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Libros para descargar",
-      "path": "0.0 Cosas temporales/Biblioteca/Libros para descargar.md"
-    },
-    {
-      "basename": "Pasted image 20250912131705",
-      "path": "img/Pasted image 20250912131705.png"
     }
   ],
   "omittedPaths": [],

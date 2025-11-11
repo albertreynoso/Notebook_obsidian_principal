@@ -15,38 +15,45 @@ Usuarios
 - Administrador, responsable de filial
 - Empleado (tipos)
 - Clientes
-
+FLOWS
 Onboarding
 	Ingreso de nueva organización
 	Ingreso de datos personales
-Home
-	Completar información --- Flow respectivo
-	Programación
+
+
+Principal
+	Citas del día
+	Resumen del 
 	Buscar personal
 	Personalizar Home
 Personal
 	Detalle empleado
+		Tratamientos realizados : Lista de tratamientos realizados, mostrando hora fecha, paciente atendido y motivo de atención
 		Contratos y acuerdos
-		Pagos y resumen de trabajo
-		Editar info general
-		Historial en la compañia
+		Pagos
+		Datos personales
 	Buscar personal
 	Filtro empleado
 	Ordenar por
 Pacientes
-	lista de pacientes
-		Ingresar al perfil del paciente
-		Ver datos
-		poner un avatar en el perfil
-		Ver resumen
-		Tratamientos (no puede ser una ventana (sub pagina))
-		detalle de pagos
-		![[Pasted image 20250927221944.png]]
-		Utilizar una vista similar para tratamientos y pagos
-		
-Tratamientos
-	Detalle
-	Citas y recumen de citas
+	Detalle paciente
+		crear nuevo paciente() -> crear cita ()
+		editar, eliminar paciente()
+		tratamientos
+			detalle tratamiento
+			editar tratamiento()
+			eliminar tratamiento()
+			citas
+		pagos
+			detalle pago
+			editar, eliminar pago ()
+		informacion personal
+Calendario:
+	Calendario
+		-vista 3 días
+		- vista de horas más grandes
+		- ver detalle de citas
+		- 
 Pagos
 Analiticas
 
